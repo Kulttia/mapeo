@@ -15,6 +15,25 @@ function descargar(nombre: string, contenido: string, tipo: string) {
   URL.revokeObjectURL(url);
 }
 
+type Lienzo = {
+  resized: () => void;
+  zoom: (z?: string | number) => number;
+  viewbox: (v?: { x: number; y: number; width: number; height: number }) => {
+    width: number;
+    height: number;
+    inner: { x: number; y: number };
+  };
+};
+
+/** Encuadra todo; si así queda ilegible (flujos largos), arranca legible desde el inicio. */
+function encuadrar(lienzo: Lienzo) {
+  lienzo.zoom("fit-viewport");
+  if (lienzo.zoom() >= 0.55) return;
+  lienzo.zoom(0.55);
+  const vb = lienzo.viewbox();
+  lienzo.viewbox({ x: vb.inner.x - 20, y: vb.inner.y - 20, width: vb.width, height: vb.height });
+}
+
 const boton =
   "inline-flex h-10 items-center gap-2 rounded-full border-2 border-primario px-4 text-sm font-bold text-primario hover:bg-primario hover:text-white disabled:opacity-50";
 
@@ -35,17 +54,19 @@ export function EditorBpmn({ codigo, xml }: { codigo: string; xml: string }) {
       modeler.current = m;
       try {
         await m.importXML(xml);
-        (m.get("canvas") as { zoom: (z: string) => void }).zoom("fit-viewport");
+        encuadrar(m.get("canvas") as Lienzo);
       } catch (err) {
         setError(err instanceof Error ? err.message : "No se pudo dibujar el diagrama.");
       }
       (m.get("eventBus") as { on: (e: string, f: () => void) => void }).on("commandStack.changed", () => setCambios(true));
     })();
     // Reencuadra cuando cambia el ancho (giro de pantalla, ventana redimensionada).
-    const observador = new ResizeObserver(() => {
-      const canvas = modeler.current?.get("canvas") as { resized: () => void; zoom: (z: string) => void } | undefined;
-      canvas?.resized();
-      canvas?.zoom("fit-viewport");
+    const observador = new ResizeObserver(([entrada]) => {
+      const canvas = modeler.current?.get("canvas") as Lienzo | undefined;
+      // Al salir de la página el contenedor mide 0 y el zoom daría un valor infinito.
+      if (!canvas || !entrada.contentRect.width || !entrada.contentRect.height) return;
+      canvas.resized();
+      encuadrar(canvas);
     });
     if (contenedor.current) observador.observe(contenedor.current);
     return () => {
@@ -97,7 +118,7 @@ export function EditorBpmn({ codigo, xml }: { codigo: string; xml: string }) {
       {error && <p className="rounded-lg bg-error-suave px-3 py-2 text-sm text-error">{error}</p>}
       <div ref={contenedor} className="h-[640px] overflow-hidden rounded-media border border-borde bg-pagina" />
       <p className="text-xs text-texto-suave">
-        Arrastra para moverte, usa la rueda para acercar. La paleta de la izquierda agrega tareas, compuertas y eventos. El
+        Arrastra para moverte por el flujo y usa la rueda (o pellizca en el celular) para acercar o alejar. La paleta de la izquierda agrega tareas, compuertas y eventos. El
         archivo .bpmn se abre en Bizagi Modeler (Archivo → Importar → BPMN).
       </p>
     </div>

@@ -71,6 +71,23 @@ function recortar(texto: string, max = MAX_CONDICION) {
   return t.length > max ? `${t.slice(0, max - 1).trimEnd()}…` : t;
 }
 
+const MAX_TAREA = 55;
+
+/**
+ * Nombre corto para la caja: la IA a veces describe la actividad con una frase larga.
+ * Se corta en el primer ";", ":" o paréntesis y se limita a MAX_TAREA; el texto completo va a la documentación.
+ */
+function nombreTarea(texto: string) {
+  const t = limpiar(texto);
+  const corte = t.search(/;|: | \(| - /);
+  return recortar(corte >= 12 ? t.slice(0, corte) : t, MAX_TAREA);
+}
+
+function conDescripcion(completo: string, doc: string | undefined) {
+  const t = limpiar(completo);
+  return nombreTarea(t) === t ? doc : [`Descripción: ${t}`, doc].filter(Boolean).join(" · ");
+}
+
 function documentacion(a: Actividad) {
   const partes: [string, string | null][] = [
     ["Sistema", a.sistema],
@@ -105,7 +122,8 @@ export function generarBpmn(l: Levantamiento, opciones: { id: string; nombre: st
   const lanes: string[] = [];
   const indiceLane = new Map<string, number>();
   const laneDe = (responsable: string | null) => {
-    const nombre = limpiar(responsable) || "Sin responsable";
+    // Un carril por persona o rol principal: "Camilo Zapata (aviso); Julián…" → "Camilo Zapata".
+    const nombre = recortar(limpiar(responsable).split(/;| \(/)[0], 40) || "Sin responsable";
     const clave = nombre.toLowerCase();
     if (!indiceLane.has(clave)) {
       indiceLane.set(clave, lanes.length);
@@ -171,11 +189,11 @@ export function generarBpmn(l: Levantamiento, opciones: { id: string; nombre: st
     const lane = laneDe(a.responsable);
     const tarea = nuevoNodo({
       tipo: limpiar(a.sistema) ? "userTask" : "task",
-      nombre: limpiar(a.nombre) || `Actividad ${limpiar(a.secuencia)}`,
+      nombre: nombreTarea(a.nombre) || `Actividad ${limpiar(a.secuencia)}`,
       lane,
       col,
       fila: 0,
-      doc: documentacion(a),
+      doc: conDescripcion(a.nombre, documentacion(a)),
     });
     enlazarPendientes(tarea);
     anterior = tarea;
@@ -194,9 +212,9 @@ export function generarBpmn(l: Levantamiento, opciones: { id: string; nombre: st
       ramas.push({
         nombre: recortar(`Variante: ${limpiar(grupo[0].a.nombre) || limpiar(grupo[0].a.secuencia)}`),
         tareas: grupo.map((v) => ({
-          nombre: limpiar(v.a.nombre) || `Actividad ${limpiar(v.a.secuencia)}`,
+          nombre: nombreTarea(v.a.nombre) || `Actividad ${limpiar(v.a.secuencia)}`,
           lane: laneDe(v.a.responsable),
-          doc: documentacion(v.a),
+          doc: conDescripcion(v.a.nombre, documentacion(v.a)),
           sistema: !!limpiar(v.a.sistema),
         })),
       });
@@ -207,7 +225,14 @@ export function generarBpmn(l: Levantamiento, opciones: { id: string; nombre: st
         .join(" · ");
       ramas.push({
         nombre: recortar(c.condicion) || "Casuística",
-        tareas: [{ nombre: limpiar(c.tratamiento) || limpiar(c.condicion) || "Tratamiento", lane, doc: docCaso, sistema: false }],
+        tareas: [
+          {
+            nombre: nombreTarea(c.tratamiento ?? "") || nombreTarea(c.condicion) || "Tratamiento",
+            lane,
+            doc: conDescripcion(c.tratamiento ?? "", docCaso),
+            sistema: false,
+          },
+        ],
       });
     }
 

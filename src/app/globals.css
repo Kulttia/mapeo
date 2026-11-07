@@ -98,3 +98,10 @@ a {
   outline: 2px solid var(--cf-focus);
   outline-offset: 2px;
 }
+
+/* En celular el editor BPMN es para ver y descargar: la paleta taparía el diagrama. */
+@media (max-width: 640px) {
+  .djs-palette {
+    display: none;
+  }
+}

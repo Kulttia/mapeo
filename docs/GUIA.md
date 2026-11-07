@@ -112,6 +112,8 @@ Si el proceso tiene varias reuniones, la segunda **no empieza de cero**: Claude 
 
 ## 3. Cómo se usa
 
+![Página de inicio de Mapeo](img/inicio.jpg)
+
 ### Paso 1 · Grabar y transcribir la reunión en Teams
 
 En la reunión con el área, activa la **transcripción** (en Teams: *Más acciones → Grabar y transcribir → Iniciar transcripción*). Al terminar, en el chat de la reunión ve a **Resumen → Transcripción → Descargar** y elige **.docx** o **.vtt**.
@@ -132,7 +134,7 @@ Si el proceso ya existía, la reunión se agrega como una **sesión nueva** del 
 
 La IA tarda entre uno y tres minutos. La página se actualiza sola.
 
-![Página de un proceso con sus sesiones](img/proceso.jpg)
+![Pantalla de revisión: a la izquierda lo que propuso la IA, a la derecha la transcripción](img/revision.jpg)
 
 Arriba siempre se ven los tres pasos del proceso: **Levantar**, **Modelar** e **Integrar**, con su estado.
 
@@ -150,6 +152,8 @@ La pantalla de revisión tiene dos columnas: a la izquierda lo que propuso la IA
 | ✓ y ✗ | Aceptar o rechazar el dato | Lo rechazado no pasa al diagrama |
 
 En **Pendientes y hallazgos** están las contradicciones y las preguntas para la siguiente reunión. Marca la casilla cuando se resuelvan.
+
+![Al tocar una cita, la transcripción salta a la frase y la resalta](img/cita.jpg)
 
 Cuando todo esté bien, pulsa **Validar levantamiento**.
 
@@ -173,6 +177,8 @@ flowchart LR
 
 *Ejemplo simplificado: cada carril es un responsable y cada rombo una casuística.*
 
+![Flujo BPMN generado para la conciliación bancaria](img/flujo.jpg)
+
 - Mueve, agrega o renombra elementos con la paleta de la izquierda y pulsa **Guardar cambios**.
 - **Descargar .bpmn** para abrirlo en Bizagi Modeler (*Archivo → Importar → BPMN*).
 - **Descargar imagen** para presentaciones.
@@ -190,7 +196,29 @@ flowchart LR
   P3 -->|distribución del 4 %| P4
 ```
 
+![Mapa del área: los cuatro procesos financieros y cómo se conectan](img/mapa.jpg)
+
 Con la clave del piloto, **Integrar con IA** dibuja estas conexiones (línea continua: se dijo en las reuniones; punteada: la IA lo dedujo) y lista las inconsistencias entre procesos. Debajo hay dos tablas: quién participa en qué proceso y qué sistemas usa cada uno.
+
+### En el celular
+
+Todas las pantallas se adaptan al celular: se puede revisar un levantamiento, ver el flujo y descargarlo. Para editar el diagrama conviene un computador.
+
+<img src="img/celular.jpg" alt="Revisión en el celular" width="300">
+
+### Resultados con las reuniones de ejemplo
+
+Se procesaron las cinco reuniones de ejemplo con Claude Haiku 5.5 y se compararon con lo que la IA debía encontrar:
+
+| Prueba | Esperado | Encontrado |
+|---|---|---|
+| Contradicciones en la conciliación bancaria | 3 | 3, más una válida adicional |
+| Errores de transcripción en la conciliación bancaria | 6 | 5 (se agregó "Banco Colombia" al glosario) |
+| Datos no dichos que deben quedar pendientes | 8 | 8 |
+| Segunda sesión de pago a proveedores | Resolver 2 contradicciones y dejar 1 abierta | Igual |
+| Inconsistencias entre procesos del área | 4 sembradas | Las 4, más 9 adicionales razonables |
+
+Cada reunión tardó entre 1,5 y 3 minutos y costó cerca de un centavo de dólar.
 
 ---
 

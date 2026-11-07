@@ -1,23 +1,183 @@
 [
-  { "termino": "F110", "definicion": "Transacción SAP de pagos automáticos", "variantes": ["efe ciento diez", "F ciento diez", "f 110"] },
-  { "termino": "MIRO", "definicion": "Transacción SAP de verificación de factura con pedido", "variantes": ["mi ro", "miro"] },
-  { "termino": "MIGO", "definicion": "Transacción SAP de entrada de mercancía", "variantes": ["amigo", "mi go"] },
-  { "termino": "FB60", "definicion": "Transacción SAP de registro de factura de acreedor sin pedido", "variantes": ["f b sesenta", "efe be sesenta"] },
-  { "termino": "FF67", "definicion": "Transacción SAP de conciliación bancaria manual", "variantes": ["efe efe sesenta y siete", "ff sesenta y siete"] },
-  { "termino": "FF_5", "definicion": "Transacción SAP de cargue de extractos bancarios", "variantes": ["efe efe cinco", "ff guion bajo cinco"] },
-  { "termino": "FEBAN", "definicion": "Transacción SAP de tratamiento posterior de extractos", "variantes": ["fe ban", "feban"] },
-  { "termino": "F.13", "definicion": "Transacción SAP de compensación automática", "variantes": ["efe trece", "f punto trece"] },
-  { "termino": "OB52", "definicion": "Transacción SAP de apertura y cierre de períodos contables", "variantes": ["o b cincuenta y dos", "ob cincuenta y dos"] },
-  { "termino": "FBL1N", "definicion": "Transacción SAP de partidas individuales de acreedores", "variantes": ["efe be ele uno ene"] },
-  { "termino": "FBL3N", "definicion": "Transacción SAP de partidas individuales de cuentas de mayor", "variantes": ["efe be ele tres ene"] },
-  { "termino": "RADIAN", "definicion": "Registro de facturas electrónicas como título valor (DIAN)", "variantes": ["radián", "radian"] },
-  { "termino": "ReteICA", "definicion": "Retención del impuesto de industria y comercio", "variantes": ["rete y ca", "rete ica"] },
-  { "termino": "ReteIVA", "definicion": "Retención del IVA", "variantes": ["rete iva"] },
-  { "termino": "PILA", "definicion": "Planilla Integrada de Liquidación de Aportes", "variantes": ["pila"] },
-  { "termino": "SOI", "definicion": "Operador de información PILA", "variantes": ["soy", "s o i"] },
-  { "termino": "FOVIS", "definicion": "Fondo para el subsidio de vivienda de interés social", "variantes": ["fo vis", "fovis"] },
-  { "termino": "Foniñez", "definicion": "Fondo para la atención integral de la niñez y jornada escolar complementaria", "variantes": ["fon niñez", "foninis", "fon ninez"] },
-  { "termino": "SSF", "definicion": "Superintendencia del Subsidio Familiar", "variantes": ["la super", "superintendencia del subsidio"] },
-  { "termino": "SMMLV", "definicion": "Salario mínimo mensual legal vigente", "variantes": ["salarios mínimos", "solares mínimos"] },
-  { "termino": "GMF", "definicion": "Gravamen a los movimientos financieros (4x1000)", "variantes": ["cuatro por mil"] }
+  {
+    "termino": "Bancolombia",
+    "definicion": "Banco con el que opera la tesorería",
+    "variantes": [
+      "Banco Colombia",
+      "banco colombia"
+    ]
+  },
+  {
+    "termino": "Davivienda",
+    "definicion": "Banco con el que opera la tesorería",
+    "variantes": [
+      "David vienda",
+      "davi vienda"
+    ]
+  },
+  {
+    "termino": "F110",
+    "definicion": "Transacción SAP de pagos automáticos",
+    "variantes": [
+      "efe ciento diez",
+      "F ciento diez",
+      "f 110"
+    ]
+  },
+  {
+    "termino": "MIRO",
+    "definicion": "Transacción SAP de verificación de factura con pedido",
+    "variantes": [
+      "mi ro",
+      "miro"
+    ]
+  },
+  {
+    "termino": "MIGO",
+    "definicion": "Transacción SAP de entrada de mercancía",
+    "variantes": [
+      "amigo",
+      "mi go"
+    ]
+  },
+  {
+    "termino": "FB60",
+    "definicion": "Transacción SAP de registro de factura de acreedor sin pedido",
+    "variantes": [
+      "f b sesenta",
+      "efe be sesenta"
+    ]
+  },
+  {
+    "termino": "FF67",
+    "definicion": "Transacción SAP de conciliación bancaria manual",
+    "variantes": [
+      "efe efe sesenta y siete",
+      "ff sesenta y siete"
+    ]
+  },
+  {
+    "termino": "FF_5",
+    "definicion": "Transacción SAP de cargue de extractos bancarios",
+    "variantes": [
+      "efe efe cinco",
+      "ff guion bajo cinco"
+    ]
+  },
+  {
+    "termino": "FEBAN",
+    "definicion": "Transacción SAP de tratamiento posterior de extractos",
+    "variantes": [
+      "fe ban",
+      "feban"
+    ]
+  },
+  {
+    "termino": "F.13",
+    "definicion": "Transacción SAP de compensación automática",
+    "variantes": [
+      "efe trece",
+      "f punto trece"
+    ]
+  },
+  {
+    "termino": "OB52",
+    "definicion": "Transacción SAP de apertura y cierre de períodos contables",
+    "variantes": [
+      "o b cincuenta y dos",
+      "ob cincuenta y dos"
+    ]
+  },
+  {
+    "termino": "FBL1N",
+    "definicion": "Transacción SAP de partidas individuales de acreedores",
+    "variantes": [
+      "efe be ele uno ene"
+    ]
+  },
+  {
+    "termino": "FBL3N",
+    "definicion": "Transacción SAP de partidas individuales de cuentas de mayor",
+    "variantes": [
+      "efe be ele tres ene"
+    ]
+  },
+  {
+    "termino": "RADIAN",
+    "definicion": "Registro de facturas electrónicas como título valor (DIAN)",
+    "variantes": [
+      "radián",
+      "radian"
+    ]
+  },
+  {
+    "termino": "ReteICA",
+    "definicion": "Retención del impuesto de industria y comercio",
+    "variantes": [
+      "rete y ca",
+      "rete ica"
+    ]
+  },
+  {
+    "termino": "ReteIVA",
+    "definicion": "Retención del IVA",
+    "variantes": [
+      "rete iva"
+    ]
+  },
+  {
+    "termino": "PILA",
+    "definicion": "Planilla Integrada de Liquidación de Aportes",
+    "variantes": [
+      "pila"
+    ]
+  },
+  {
+    "termino": "SOI",
+    "definicion": "Operador de información PILA",
+    "variantes": [
+      "soy",
+      "s o i"
+    ]
+  },
+  {
+    "termino": "FOVIS",
+    "definicion": "Fondo para el subsidio de vivienda de interés social",
+    "variantes": [
+      "fo vis",
+      "fovis"
+    ]
+  },
+  {
+    "termino": "Foniñez",
+    "definicion": "Fondo para la atención integral de la niñez y jornada escolar complementaria",
+    "variantes": [
+      "fon niñez",
+      "foninis",
+      "fon ninez"
+    ]
+  },
+  {
+    "termino": "SSF",
+    "definicion": "Superintendencia del Subsidio Familiar",
+    "variantes": [
+      "la super",
+      "superintendencia del subsidio"
+    ]
+  },
+  {
+    "termino": "SMMLV",
+    "definicion": "Salario mínimo mensual legal vigente",
+    "variantes": [
+      "salarios mínimos",
+      "solares mínimos"
+    ]
+  },
+  {
+    "termino": "GMF",
+    "definicion": "Gravamen a los movimientos financieros (4x1000)",
+    "variantes": [
+      "cuatro por mil"
+    ]
+  }
 ]

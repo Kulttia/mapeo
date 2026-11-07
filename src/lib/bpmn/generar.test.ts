@@ -156,7 +156,8 @@ describe("generarBpmn", () => {
         casuistica("99", "Actividad inexistente"),
       ],
     );
-    const r = await verificar(generarBpmn(l, { id: "P-FIN-02", nombre: "Pagos" }));
+    const xml = generarBpmn(l, { id: "P-FIN-02", nombre: "Pagos" });
+    const r = await verificar(xml);
 
     expect(r.lanes.map((x) => x.name)).toEqual(["Analista", "Coordinador", "Auxiliar"]);
     expect(r.contar("bpmn:ExclusiveGateway")).toBe(2);
@@ -179,7 +180,11 @@ describe("generarBpmn", () => {
     expect(laneDe(tratamiento)).toBe("Coordinador");
     expect(laneDe(r.porNombre("Validar manualmente"))).toBe("Auxiliar");
     expect((r.flujos.find((f) => f.sourceRef === tratamiento)!.targetRef as E).name).toBe("Pagar");
-    expect(r.porNombre(larga).$type).toBe("bpmn:Task");
+    // Un texto largo se acorta en la caja y queda completo en la documentación.
+    const tareaLarga = r.nodos.find((n) => n.name?.startsWith("Cuando el proveedor no tiene RUT"))!;
+    expect(tareaLarga.$type).toBe("bpmn:Task");
+    expect(tareaLarga.name!.length).toBeLessThanOrEqual(55);
+    expect(xml).toContain(`Casuística: ${larga}`);
 
     const fin = r.nodos.find((n) => n.$type === "bpmn:EndEvent")!;
     expect(fin.name).toBe("Fin");

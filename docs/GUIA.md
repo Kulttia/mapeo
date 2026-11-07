@@ -114,6 +114,8 @@ Si el proceso tiene varias reuniones, la segunda **no empieza de cero**: Claude 
 
 **Para entrar**, abre la plataforma e ingresa con el usuario `prueba` y la contraseña `prueba`. Es un ingreso simulado con los colores y el logo de Comfama; la sesión dura 8 horas y el botón **Salir**, arriba a la derecha, la cierra.
 
+![Pantalla de ingreso con el logo y los colores de Comfama](img/ingreso.jpg)
+
 ![Página de inicio de Mapeo](img/inicio.jpg)
 
 ### Paso 1 · Grabar y transcribir la reunión en Teams

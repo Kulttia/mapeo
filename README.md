@@ -38,6 +38,8 @@ Sin `DATABASE_URL` la app usa PGlite (Postgres embebido) en `~/.mapeo/pglite`: n
 | `MAPEO_CLAVE_PILOTO` | Clave que se pide para subir transcripciones y lanzar la IA | Sí |
 | `DATABASE_URL` | Postgres en la nube (Neon, Azure, etc.) | En producción |
 | `MAPEO_MODELO_IA` | Modelo de Claude; por defecto `claude-haiku-5-5` | No |
+| `MAPEO_USUARIO` / `MAPEO_CLAVE` | Usuario y contraseña del ingreso simulado; por defecto `prueba` / `prueba` | No |
+| `MAPEO_SECRETO_SESION` | Secreto para firmar la cookie de sesión; si falta, se usa `MAPEO_CLAVE_PILOTO` | No |
 
 ## Desplegar en Vercel
 
@@ -45,7 +47,7 @@ Sin `DATABASE_URL` la app usa PGlite (Postgres embebido) en `~/.mapeo/pglite`: n
 2. En *Storage* agrega una base Neon: Vercel crea `DATABASE_URL`.
 3. Agrega `ANTHROPIC_API_KEY` y `MAPEO_CLAVE_PILOTO` en *Settings → Environment Variables*.
 4. Crea las tablas contra esa base: `vercel env pull .env.local` y luego `npm run db:setup`.
-5. Despliega. `https://<tu-app>/api/estado` confirma que todo quedó configurado (sin mostrar las claves).
+5. Despliega. Entra con `prueba` / `prueba` (o lo que pongas en `MAPEO_USUARIO` / `MAPEO_CLAVE`); ya con sesión, `https://<tu-app>/api/estado` confirma que todo quedó configurado (sin mostrar las claves).
 
 Para llevarlo a Azure o integrarlo con Teams, ver la sección 5 de [la arquitectura](docs/ARQUITECTURA.md#5-integración-con-microsoft-365).
 

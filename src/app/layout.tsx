@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import Image from "next/image";
 import Link from "next/link";
+import { Icono } from "@/components/icono";
+import { salir } from "./ingresar/acciones";
 import "./globals.css";
 
 const roboto = localFont({
@@ -30,9 +32,18 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
               <span className="h-6 w-px bg-borde" aria-hidden />
               <span className="text-lg font-bold text-titulo">Mapeo</span>
             </Link>
-            <span className="ml-auto rounded-full bg-primario-suave px-3 py-1 text-xs font-medium text-primario">
+            <span className="ml-auto hidden rounded-full bg-primario-suave px-3 py-1 text-xs font-medium text-primario sm:inline">
               Piloto · datos ficticios
             </span>
+            <form action={salir} className="ml-auto sm:ml-0">
+              <button
+                type="submit"
+                className="flex items-center gap-2 rounded-full px-3 py-2 text-sm font-medium text-texto-suave hover:bg-lavanda hover:text-primario"
+              >
+                <Icono nombre="sign-out" />
+                Salir
+              </button>
+            </form>
           </div>
         </header>
         <main className="mx-auto w-full max-w-[1200px] flex-1 px-4 py-10">{children}</main>

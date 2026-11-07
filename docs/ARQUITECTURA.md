@@ -101,7 +101,8 @@ El levantamiento corre después de responder la petición (`after()` de Next) pa
 
 ### Seguridad del piloto
 
-- La app no tiene login todavía. Toda acción que crea datos o gasta API (subir transcripción, procesar con IA, integrar el área) exige la clave del piloto (`MAPEO_CLAVE_PILOTO`).
+- Ingreso simulado: toda la app pide usuario y contraseña (por defecto `prueba` / `prueba`, configurables con `MAPEO_USUARIO` y `MAPEO_CLAVE`). La sesión es una cookie `httpOnly` firmada con HMAC que dura 8 horas; `src/proxy.ts` la revisa en cada página y en la API. Es una simulación: el ingreso real de Comfama será con Microsoft Entra ID (sección 5).
+- Además, toda acción que crea datos o gasta API (subir transcripción, procesar con IA, integrar el área) exige la clave del piloto (`MAPEO_CLAVE_PILOTO`).
 - Las claves viven solo en variables de entorno; `/api/estado` informa si están configuradas sin mostrarlas.
 - Las transcripciones contienen datos personales de colaboradores: en un despliegue real aplica la política de tratamiento de datos de la organización (en Colombia, Ley 1581 de 2012).
 

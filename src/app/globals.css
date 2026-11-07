@@ -105,3 +105,8 @@ a {
     display: none;
   }
 }
+
+/* En la pantalla de ingreso no se muestra el encabezado de la app (ni su botón Salir). */
+body:has(.pantalla-ingreso) > header {
+  display: none;
+}

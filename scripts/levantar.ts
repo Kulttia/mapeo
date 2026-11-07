@@ -4,7 +4,7 @@ import { eq } from "drizzle-orm";
 import { db, schema } from "../src/db";
 import { completarProcesamiento, iniciarProcesamiento, siguienteSesionPendiente } from "../src/lib/levantamiento/servicio";
 
-config({ path: ".env.local" });
+config({ path: [".env.development.local", ".env.local"] });
 
 /**
  * Procesa con IA las sesiones pendientes de un proceso, en orden.

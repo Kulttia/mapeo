@@ -55,6 +55,7 @@ Para llevarlo a Azure o integrarlo con Teams, ver la sección 5 de [la arquitect
 |---|---|
 | `npm run dev` | Servidor de desarrollo |
 | `npm test` | Pruebas (lectores de transcripción y generador BPMN) |
+| `npm run typecheck` | Genera los tipos de rutas y revisa TypeScript |
 | `npm run db:generate` | Genera una migración tras cambiar `src/db/schema.ts` |
 | `npm run db:setup` | Aplica migraciones y carga el área de ejemplo |
 | `npm run db:seed` | Recarga solo el área de ejemplo (borra y vuelve a crear) |

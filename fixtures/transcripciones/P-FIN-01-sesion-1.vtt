@@ -1,0 +1,1289 @@
+WEBVTT
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/25-0
+00:00:03.120 --> 00:00:06.190
+<v Sara Montoya>Bueno, buenos días. ¿Me escuchan bien?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/26-0
+00:00:07.921 --> 00:00:11.066
+<v Julián Restrepo>Sí, Sara, buenos días, te escuchamos.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/27-0
+00:00:12.847 --> 00:00:16.673
+<v Andrés Cárdenas>Buenos días, sí, perfecto, se escucha bien.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/28-0
+00:00:20.702 --> 00:00:26.760
+<v Sara Montoya>Listo. Esperemos un minutico a ver si se conectan Paula y Luz Marina.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/29-0
+00:00:52.053 --> 00:00:57.715
+<v Paula Gaviria>Hola, hola, buenos días. Ya estoy acá, perdón, venía de otra reunión.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/30-0
+00:01:03.720 --> 00:01:11.140
+<v Sara Montoya>Tranquila Paula, bienvenida. Luz Marina me escribió que se demora un poquito, que arranquemos sin ella.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/31-0
+00:01:16.225 --> 00:01:27.192
+<v Sara Montoya>Entonces, pues, como les conté en el correo, estamos haciendo el levantamiento de los procesos de Gestión Financiera en su estado actual, el AS IS.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/32-0
+00:01:33.843 --> 00:01:42.061
+<v Sara Montoya>Hoy nos vamos a enfocar en causación y pago a proveedores, lo que ustedes llaman cuentas por pagar.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/33-0
+00:01:45.944 --> 00:01:57.649
+<v Andrés Cárdenas>Y la idea es que nos cuenten cómo se hace realmente. No cómo dice el procedimiento, sino el día a día, con las mañas y todo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/34-0
+00:02:04.321 --> 00:02:07.203
+<v Julián Restrepo>Jaja, listo, mañas hay hartas.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/35-0
+00:02:08.602 --> 00:02:15.676
+<v Sara Montoya>Exacto, eso es lo que queremos. La reunión se está grabando y transcribiendo, ¿están de acuerdo?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/36-0
+00:02:17.902 --> 00:02:20.016
+<v Julián Restrepo>Sí, listo, de acuerdo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/37-0
+00:02:24.107 --> 00:02:25.647
+<v Paula Gaviria>Sí, sin problema.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/38-0
+00:02:28.293 --> 00:02:38.847
+<v Sara Montoya>Perfecto. Ah, y una aclaración: este proceso todavía no tiene código asignado en el mapa de procesos. Eso lo definimos después con Planeación.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/39-0
+00:02:44.173 --> 00:02:49.964
+<v Andrés Cárdenas>Sí, por ahora le decimos causación y pago a proveedores y ya.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/40-0
+00:02:54.741 --> 00:03:01.353
+<v Sara Montoya>Bueno, Julián, ¿tú eres el que ejecuta el proceso en el día a día, cierto?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/41-0
+00:03:05.420 --> 00:03:13.116
+<v Julián Restrepo>Sí, señora. Yo soy analista de cuentas por pagar, llevo como cuatro años en el cargo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/42-0
+00:03:19.143 --> 00:03:26.402
+<v Sara Montoya>Listo. Entonces arranquemos por el principio. ¿Qué es lo que dispara el proceso? ¿Dónde empieza?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/43-0
+00:03:30.696 --> 00:03:35.609
+<v Julián Restrepo>Pues, básicamente empieza cuando llega la factura electrónica del proveedor.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/44-0
+00:03:38.386 --> 00:03:44.123
+<v Julián Restrepo>Pero antes de eso, digamos, ya hay cosas que pasan en compras.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/45-0
+00:03:47.325 --> 00:03:49.763
+<v Andrés Cárdenas>¿Qué pasa antes en compras?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/46-0
+00:03:55.800 --> 00:04:02.819
+<v Julián Restrepo>Compras, o sea, el área de abastecimiento, crea el pedido en SAP, la orden de compra.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/47-0
+00:04:09.194 --> 00:04:18.700
+<v Julián Restrepo>Y cuando el bien llega, el almacén o el que recibe en la sede hace la entrada de mercancía, la MIGO.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/48-0
+00:04:20.846 --> 00:04:28.321
+<v Andrés Cárdenas>O sea que lo que viene antes es compras con el pedido y la entrada de mercancía.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/49-0
+00:04:34.392 --> 00:04:40.683
+<v Julián Restrepo>Sí, eso. Sin pedido y sin entrada pues uno no puede causar. En teoría.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/50-0
+00:04:47.473 --> 00:04:48.773
+<v Sara Montoya>¿En teoría?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/51-0
+00:04:52.848 --> 00:04:59.027
+<v Julián Restrepo>Jaja, sí, en teoría, porque después les cuento todas las que llegan sin pedido.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/52-0
+00:05:03.401 --> 00:05:08.606
+<v Sara Montoya>Listo, ya llegamos ahí. Entonces llega la factura. ¿A dónde llega?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/53-0
+00:05:10.707 --> 00:05:21.854
+<v Julián Restrepo>Llega a un buzón de correo, el buzón de facturación electrónica, que es el que está registrado en el RUT y que los proveedores tienen.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/54-0
+00:05:26.001 --> 00:05:34.024
+<v Julián Restrepo>Ahí llega el correo con el zip, adentro viene el XML y el PDF de la factura.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/55-0
+00:05:37.972 --> 00:05:40.663
+<v Andrés Cárdenas>¿Y quién revisa ese buzón?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/56-0
+00:05:45.233 --> 00:05:50.988
+<v Julián Restrepo>Yo lo reviso todos los días, en la mañana, primero que todo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/57-0
+00:05:52.030 --> 00:05:58.538
+<v Julián Restrepo>Bueno, cuando puedo. A veces ya es al mediodía, no les voy a mentir.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/58-0
+00:06:05.333 --> 00:06:09.401
+<v Sara Montoya>¿Y qué haces con esa factura cuando llega?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/59-0
+00:06:13.427 --> 00:06:23.734
+<v Julián Restrepo>Lo primero es validar que esté bien ante la DIAN. Que sea válida, que tenga el CUFE, que la validación previa esté aprobada.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/60-0
+00:06:27.055 --> 00:06:30.854
+<v Julián Restrepo>Y luego se generan los eventos en radián.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/61-0
+00:06:36.621 --> 00:06:41.775
+<v Andrés Cárdenas>¿Los eventos de RADIAN? ¿El acuse de recibo y eso?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/62-0
+00:06:46.086 --> 00:06:55.069
+<v Julián Restrepo>Sí. El acuse de recibo de la factura, después el recibo del bien o servicio, y después la aceptación.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/63-0
+00:06:58.942 --> 00:07:10.794
+<v Julián Restrepo>Porque si uno no hace nada, a los tres días hábiles queda aceptada tácitamente. Pero igual nosotros hacemos la aceptación expresa cuando ya está todo validado.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/64-0
+00:07:15.888 --> 00:07:21.265
+<v Sara Montoya>¿Y eso dónde se hace? ¿En SAP o en otro lado?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/65-0
+00:07:22.540 --> 00:07:31.471
+<v Julián Restrepo>Eso se hace en la plataforma del proveedor tecnológico de facturación, que es la que está conectada con la DIAN.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/66-0
+00:07:35.636 --> 00:07:41.528
+<v Julián Restrepo>SAP no hace eso directamente, por lo menos no como lo tenemos nosotros.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/67-0
+00:07:44.929 --> 00:07:50.438
+<v Andrés Cárdenas>Ok. ¿Y si la factura no pasa la validación? ¿Si está mal?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/68-0
+00:07:57.157 --> 00:08:06.768
+<v Julián Restrepo>Ahí se rechaza, se genera el reclamo en la plataforma y le escribo al proveedor que la corrija o que mande nota.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/69-0
+00:08:13.283 --> 00:08:22.955
+<v Julián Restrepo>Eso pasa poquito, la verdad. Lo más común es que llegue mal el pedido en la factura, el número de pedido.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/70-0
+00:08:25.473 --> 00:08:33.613
+<v Andrés Cárdenas>Ok. Y el recibo del bien, ese evento, ¿quién lo genera? Porque en teoría es el que recibe.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/71-0
+00:08:37.377 --> 00:08:48.382
+<v Julián Restrepo>Uy, buena pregunta. Debería ser el que recibe, pero en la práctica lo hago yo cuando veo que ya está la entrada en SAP.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/72-0
+00:08:50.031 --> 00:08:55.608
+<v Sara Montoya>Listo, anotado. Entonces validas DIAN, haces el acuse... ¿y luego qué sigue?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/73-0
+00:08:59.130 --> 00:09:04.682
+<v Julián Restrepo>Luego verifico contra el pedido y contra la entrada de mercancía.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/74-0
+00:09:10.538 --> 00:09:22.821
+<v Julián Restrepo>Entro a SAP, miro el pedido, miro que tenga la amigo hecha, o sea la entrada, y que las cantidades y los precios cuadren con la factura.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/75-0
+00:09:29.196 --> 00:09:31.098
+<v Andrés Cárdenas>¿Y cuando no cuadra?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/76-0
+00:09:34.883 --> 00:09:37.783
+<v Julián Restrepo>Ahí es donde empieza el problema.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/77-0
+00:09:40.594 --> 00:09:49.516
+<v Julián Restrepo>Si la cantidad no cuadra, por ejemplo facturaron cien unidades y entraron ochenta, pues no puedo causar las cien.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/78-0
+00:09:51.559 --> 00:10:05.279
+<v Julián Restrepo>Le escribo a compras para que revisen. Y si el precio es diferente al del pedido, igual, compras tiene que modificar el pedido o el proveedor tiene que mandar nota crédito.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/79-0
+00:10:09.927 --> 00:10:15.920
+<v Andrés Cárdenas>¿Hay alguna tolerancia? Por ejemplo, si la diferencia es de unos pesos.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/80-0
+00:10:22.446 --> 00:10:33.137
+<v Julián Restrepo>Sí, hay una tolerancia configurada en SAP, pequeñita, por redondeos. Yo no sé exactamente de cuánto es, eso lo configuró el equipo de SAP.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/81-0
+00:10:34.801 --> 00:10:38.456
+<v Sara Montoya>¿Y cómo le escribes a compras? ¿Por correo?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/82-0
+00:10:44.090 --> 00:10:51.965
+<v Julián Restrepo>Eh... formalmente por correo. Pero la verdad, tenemos un grupo de WhatsApp con la gente de compras.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/83-0
+00:10:52.977 --> 00:11:01.381
+<v Julián Restrepo>Ahí les mando: oiga, falta la entrada del pedido tal. Y ahí responden más rápido que por correo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/84-0
+00:11:03.440 --> 00:11:06.808
+<v Andrés Cárdenas>¿Y eso queda registrado en algún lado?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/85-0
+00:11:09.069 --> 00:11:14.862
+<v Julián Restrepo>Pues en el WhatsApp. Jaja. No, en serio, no queda en ningún sistema.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/86-0
+00:11:19.933 --> 00:11:25.897
+<v Sara Montoya>Listo. Eso es importante, lo dejamos anotado como parte de la operación real.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/87-0
+00:11:28.738 --> 00:11:36.847
+<v Paula Gaviria>Eso del WhatsApp también nos pasa a nosotros con los proveedores, pero bueno, eso es otro tema.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/88-0
+00:11:39.891 --> 00:11:43.600
+<v Sara Montoya>Ahorita llegamos a la parte tuya, Paula.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/89-0
+00:11:48.260 --> 00:11:54.074
+<v Andrés Cárdenas>Julián, ¿y cuánto se demora normalmente esa espera por la entrada de mercancía?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/90-0
+00:11:55.588 --> 00:12:05.748
+<v Julián Restrepo>Depende mucho. A veces es el mismo día, pero hay facturas que se quedan quince días, un mes esperando que hagan la entrada.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/91-0
+00:12:11.086 --> 00:12:22.421
+<v Julián Restrepo>Sobre todo con las sedes, porque el que recibe en la sede no hace la entrada a tiempo, o no sabe que la tiene que hacer.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/92-0
+00:12:24.044 --> 00:12:27.264
+<v Sara Montoya>¿Y mientras tanto la factura dónde queda?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/93-0
+00:12:31.256 --> 00:12:33.716
+<v Julián Restrepo>Queda en mi Excel.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/94-0
+00:12:36.120 --> 00:12:37.420
+<v Sara Montoya>¿Tu Excel?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/95-0
+00:12:39.501 --> 00:12:48.603
+<v Julián Restrepo>Sí, yo tengo un Excel que se llama control facturas pendientes. Ahí anoto todas las que están pendientes por algo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/96-0
+00:12:52.716 --> 00:13:03.016
+<v Julián Restrepo>La fecha en que llegó, el proveedor, el valor, qué le falta, si es entrada, si es pedido, y a quién le escribí.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/97-0
+00:13:06.558 --> 00:13:11.572
+<v Andrés Cárdenas>¿Y ese Excel lo compartes con alguien o es solo tuyo?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/98-0
+00:13:14.741 --> 00:13:23.538
+<v Julián Restrepo>Pues, más que todo lo uso yo. Luz Marina a veces me lo pide cuando se acerca el cierre.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/99-0
+00:13:26.937 --> 00:13:29.356
+<v Andrés Cárdenas>¿Y dónde lo tienes guardado?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/100-0
+00:13:33.463 --> 00:13:35.390
+<v Julián Restrepo>Lo tengo en...</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/101-0
+00:13:37.239 --> 00:13:41.776
+<v Paula Gaviria>Perdón, perdón que interrumpa, ¿alguien más se está escuchando entrecortado?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/102-0
+00:13:43.897 --> 00:13:48.647
+<v Sara Montoya>Yo te escucho bien, Paula. De pronto es tu conexión.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/103-0
+00:13:53.377 --> 00:13:57.556
+<v Paula Gaviria>Ah bueno, ya, ya mejoró. Sigan, sigan, qué pena.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/104-0
+00:14:02.329 --> 00:14:07.825
+<v Sara Montoya>Listo. Julián, sigamos entonces. Ya validaste contra pedido y entrada. ¿Después qué?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/105-0
+00:14:11.933 --> 00:14:18.345
+<v Julián Restrepo>Después causo. Si la factura tiene pedido, la causo por la mi ro.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/106-0
+00:14:24.419 --> 00:14:28.160
+<v Andrés Cárdenas>La MIRO, la verificación de facturas logística.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/107-0
+00:14:32.770 --> 00:14:39.141
+<v Julián Restrepo>Esa. Y si no tiene pedido, la causo directo por la f b sesenta.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/108-0
+00:14:45.248 --> 00:14:48.195
+<v Sara Montoya>¿Y cuáles no tienen pedido?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/109-0
+00:14:50.490 --> 00:14:56.369
+<v Julián Restrepo>Pues hay unas que no deberían tener, como servicios públicos, arrendamientos, algunos honorarios.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/110-0
+00:15:01.768 --> 00:15:10.329
+<v Julián Restrepo>Y hay otras que sí deberían tener y llegan sin pedido, porque alguien contrató algo sin pasar por compras.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/111-0
+00:15:16.154 --> 00:15:21.207
+<v Andrés Cárdenas>Esas que llegan sin pedido y deberían tenerlo, ¿qué hacen?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/112-0
+00:15:27.595 --> 00:15:33.776
+<v Julián Restrepo>Se devuelven al área que contrató para que gestione el pedido con compras.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/113-0
+00:15:36.579 --> 00:15:46.211
+<v Julián Restrepo>O si es algo ya consumido, que ya se prestó el servicio, piden una excepción y se causa por FB60 con autorización.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/114-0
+00:15:49.009 --> 00:15:51.178
+<v Sara Montoya>¿Autorización de quién?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/115-0
+00:15:57.688 --> 00:16:03.144
+<v Julián Restrepo>Del jefe del área que pidió el servicio, y de Luz Marina.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/116-0
+00:16:05.350 --> 00:16:09.986
+<v Sara Montoya>Listo. ¿Y eso de las facturas sin pedido es frecuente?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/117-0
+00:16:16.959 --> 00:16:25.359
+<v Julián Restrepo>Uy, sí. Es de lo que más me quita tiempo. Yo diría que es el dolor número uno.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/118-0
+00:16:31.655 --> 00:16:36.340
+<v Sara Montoya>Listo. ¿Y más o menos cuántas facturas llegan al mes?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/119-0
+00:16:38.031 --> 00:16:41.843
+<v Julián Restrepo>Uy, yo diría que unas 1.800 al mes.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/120-0
+00:16:44.178 --> 00:16:49.110
+<v Julián Restrepo>Más o menos, no tengo el dato exacto, pero por ahí.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/121-0
+00:16:54.423 --> 00:16:58.090
+<v Andrés Cárdenas>¿Y cuánto tiempo te toma causar una factura?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/122-0
+00:17:00.548 --> 00:17:04.560
+<v Julián Restrepo>Una normal, que tiene todo, unos ocho minutos.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/123-0
+00:17:06.026 --> 00:17:14.056
+<v Julián Restrepo>Pero una con novedad se puede llevar media hora, una hora, porque toca escribir, esperar, volver a entrar.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/124-0
+00:17:20.013 --> 00:17:22.761
+<v Andrés Cárdenas>¿Y tú solo procesas todas?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/125-0
+00:17:26.210 --> 00:17:33.054
+<v Julián Restrepo>No, no, somos dos. Bueno, yo y una auxiliar que me ayuda con una parte.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/126-0
+00:17:38.753 --> 00:17:42.249
+<v Andrés Cárdenas>Ok. ¿Y la auxiliar qué parte hace?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/127-0
+00:17:43.891 --> 00:17:50.720
+<v Julián Restrepo>Ella me ayuda con las de servicios públicos y con archivar, más que todo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/128-0
+00:17:54.054 --> 00:17:58.422
+<v Sara Montoya>Listo. Ahora, ¿en la causación también calculan las retenciones?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/129-0
+00:18:03.482 --> 00:18:11.318
+<v Julián Restrepo>Sí, eso es parte de la causación. Retención en la fuente, rete y ca y rete IVA.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/130-0
+00:18:12.299 --> 00:18:16.936
+<v Andrés Cárdenas>¿Y eso lo calcula SAP o lo calculan ustedes?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/131-0
+00:18:19.036 --> 00:18:25.747
+<v Julián Restrepo>SAP lo calcula con los indicadores de retención que tiene el proveedor en el maestro.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/132-0
+00:18:30.789 --> 00:18:39.182
+<v Julián Restrepo>Pero el problema es que muchas veces el indicador está mal, o el concepto no es el que es.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/133-0
+00:18:45.623 --> 00:18:56.247
+<v Julián Restrepo>Por ejemplo, un servicio que lo tienen parametrizado como compra, entonces la retención en la fuente queda con la tarifa que no es.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/134-0
+00:19:03.036 --> 00:19:05.936
+<v Sara Montoya>¿Y eso cómo se detecta?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/135-0
+00:19:07.514 --> 00:19:17.676
+<v Julián Restrepo>A veces lo detecto yo, a veces lo detecta el proveedor cuando le llega el pago y reclama que le retuvimos de más.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/136-0
+00:19:21.639 --> 00:19:30.056
+<v Julián Restrepo>Y ahí toca hacer reproceso: anular, hacer el ajuste, volver a causar. Eso es de los reprocesos más feos.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/137-0
+00:19:35.562 --> 00:19:39.683
+<v Andrés Cárdenas>¿Y el rete y ca depende del municipio?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/138-0
+00:19:43.628 --> 00:19:55.125
+<v Julián Restrepo>Sí, depende de dónde se presta el servicio. Comfama tiene sedes en varios municipios de Antioquia, entonces Medellín, Rionegro, Apartadó... cada uno con su tarifa.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/139-0
+00:20:00.187 --> 00:20:06.057
+<v Julián Restrepo>Y eso SAP no lo toma solo, a veces toca ajustarlo a mano.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/140-0
+00:20:08.084 --> 00:20:10.651
+<v Andrés Cárdenas>¿Y el rete IVA?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/141-0
+00:20:11.955 --> 00:20:19.581
+<v Julián Restrepo>El rete IVA es más sencillo, depende del régimen del proveedor. Ese casi no da problema.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/142-0
+00:20:21.103 --> 00:20:25.555
+<v Sara Montoya>Ok. Dolor importante entonces: reprocesos por retenciones mal calculadas.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/143-0
+00:20:34.657 --> 00:20:38.981
+<v Luz Marina Ospina>Hola, buenos días, qué pena con ustedes. ¿Me escuchan?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/144-0
+00:20:43.225 --> 00:20:46.476
+<v Sara Montoya>Hola Luz Marina, sí, te escuchamos. Bienvenida.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/145-0
+00:20:50.495 --> 00:20:54.126
+<v Luz Marina Ospina>Perdón, estaba en el comité y se alargó.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/146-0
+00:20:58.474 --> 00:21:01.901
+<v Sara Montoya>Tranquila. Te cuento rápido dónde vamos.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/147-0
+00:21:03.669 --> 00:21:15.951
+<v Sara Montoya>Julián nos contó la recepción de la factura, la validación DIAN, los eventos de RADIAN, la verificación contra pedido y entrada, y la causación con MIRO o FB60.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/148-0
+00:21:17.951 --> 00:21:20.772
+<v Sara Montoya>Y estábamos en las retenciones.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/149-0
+00:21:22.891 --> 00:21:27.526
+<v Luz Marina Ospina>Ah, listo. Sí, las retenciones son un dolor de cabeza.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/150-0
+00:21:33.532 --> 00:21:39.841
+<v Luz Marina Ospina>Yo diría que la mitad de los reclamos de proveedores son por retenciones.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/151-0
+00:21:46.764 --> 00:21:49.510
+<v Andrés Cárdenas>¿La mitad? ¿Eso lo miden?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/152-0
+00:21:56.046 --> 00:22:00.281
+<v Luz Marina Ospina>No, no, es una percepción mía. No lo medimos.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/153-0
+00:22:01.736 --> 00:22:07.590
+<v Sara Montoya>Listo. Luz Marina, para tu contexto, tú eres la dueña del proceso, ¿cierto?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/154-0
+00:22:08.842 --> 00:22:16.780
+<v Luz Marina Ospina>Sí, yo soy la Jefe de Contabilidad. El proceso de cuentas por pagar está bajo mi responsabilidad.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/155-0
+00:22:23.466 --> 00:22:27.970
+<v Luz Marina Ospina>La parte de pagos ya es de Tesorería, de Paula.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/156-0
+00:22:31.666 --> 00:22:36.706
+<v Sara Montoya>Perfecto. Sigamos entonces. Julián, ya causaste la factura. ¿Qué pasa después?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/157-0
+00:22:42.252 --> 00:22:45.822
+<v Julián Restrepo>Después viene la aprobación. Depende del monto.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/158-0
+00:22:48.692 --> 00:22:56.722
+<v Julián Restrepo>Las facturas normales, que vienen con pedido, ya están aprobadas desde el pedido, entonces esas pasan directo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/159-0
+00:23:00.448 --> 00:23:08.312
+<v Julián Restrepo>Pero las que se causan sin pedido, o las que son de montos grandes, necesitan aprobación adicional.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/160-0
+00:23:12.333 --> 00:23:14.432
+<v Andrés Cárdenas>¿Cuáles son los rangos?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/161-0
+00:23:17.932 --> 00:23:25.583
+<v Julián Restrepo>Pues, por encima de cincuenta millones las firma la Jefe de Contabilidad, o sea Luz Marina.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/162-0
+00:23:30.127 --> 00:23:35.576
+<v Julián Restrepo>Y por debajo... bueno, no las apruebo yo, las revisa el coordinador.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/163-0
+00:23:36.530 --> 00:23:39.295
+<v Andrés Cárdenas>¿Y cómo se aprueban? ¿En SAP?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/164-0
+00:23:44.451 --> 00:23:53.350
+<v Julián Restrepo>La factura queda con un bloqueo de pago en SAP, y cuando la aprueban por correo, yo libero el bloqueo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/165-0
+00:23:59.381 --> 00:24:05.425
+<v Sara Montoya>O sea la aprobación es por correo y la liberación es en SAP.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/166-0
+00:24:07.406 --> 00:24:08.706
+<v Julián Restrepo>Exacto.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/167-0
+00:24:12.352 --> 00:24:17.782
+<v Luz Marina Ospina>Sí, el correo es el soporte. Eso lo pide la revisoría fiscal.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/168-0
+00:24:23.172 --> 00:24:26.183
+<v Andrés Cárdenas>¿Y esos correos dónde quedan guardados?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/169-0
+00:24:29.532 --> 00:24:37.792
+<v Julián Restrepo>En el gestor documental, junto con la factura. Bueno, se supone. A veces quedan solo en mi correo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/170-0
+00:24:39.857 --> 00:24:43.554
+<v Sara Montoya>Listo. Y luego, Paula, entraría tu parte, ¿cierto?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/171-0
+00:24:45.435 --> 00:24:52.697
+<v Paula Gaviria>Sí. Ya cuando la factura está causada y sin bloqueo, entra en la propuesta de pago.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/172-0
+00:24:56.702 --> 00:25:03.057
+<v Paula Gaviria>Nosotros corremos la efe ciento diez en SAP, el programa de pagos automático.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/173-0
+00:25:04.024 --> 00:25:05.762
+<v Andrés Cárdenas>La F110.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/174-0
+00:25:12.092 --> 00:25:17.007
+<v Paula Gaviria>Sí, esa. Los ciclos de pago son martes y jueves.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/175-0
+00:25:22.778 --> 00:25:31.121
+<v Paula Gaviria>El día anterior se corre la propuesta, se revisa, y el día del pago se genera el archivo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/176-0
+00:25:36.300 --> 00:25:38.611
+<v Andrés Cárdenas>¿Quién revisa la propuesta?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/177-0
+00:25:44.743 --> 00:25:53.977
+<v Paula Gaviria>La revisamos en Tesorería. Miramos que no haya proveedores bloqueados, que los valores tengan sentido, que haya plata en las cuentas.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/178-0
+00:25:58.695 --> 00:26:05.303
+<v Paula Gaviria>Si hay algo raro se excluye de la propuesta y queda para el siguiente ciclo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/179-0
+00:26:08.647 --> 00:26:12.690
+<v Andrés Cárdenas>¿Y la propuesta toma todo lo vencido o cómo?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/180-0
+00:26:17.226 --> 00:26:28.276
+<v Paula Gaviria>Toma lo que está vencido a la fecha del pago según la condición de pago del proveedor. Lo que no está vencido no sale.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/181-0
+00:26:32.230 --> 00:26:35.474
+<v Sara Montoya>Y después de la propuesta, ¿qué?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/182-0
+00:26:42.351 --> 00:26:49.182
+<v Paula Gaviria>Se ejecuta la F ciento diez y genera el archivo plano para el banco.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/183-0
+00:26:54.972 --> 00:27:01.144
+<v Paula Gaviria>Ese archivo se sube al portal bancario. Trabajamos con Bancolombia y con Davivienda principalmente.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/184-0
+00:27:03.595 --> 00:27:06.368
+<v Andrés Cárdenas>¿Y cómo decides qué banco?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/185-0
+00:27:12.809 --> 00:27:24.410
+<v Paula Gaviria>Depende de la cuenta pagadora. La mayoría de pagos salen de Bancolombia, y algunos de Davivienda, por los convenios y por la liquidez de cada cuenta.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/186-0
+00:27:29.832 --> 00:27:33.096
+<v Sara Montoya>¿Quién sube el archivo al portal?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/187-0
+00:27:38.722 --> 00:27:47.231
+<v Paula Gaviria>Lo sube una persona de mi equipo, que es la que prepara, y después se aprueba en el portal.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/188-0
+00:27:53.081 --> 00:27:56.534
+<v Andrés Cárdenas>¿Y quién aprueba en el portal?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/189-0
+00:27:59.885 --> 00:28:12.478
+<v Paula Gaviria>Hay dos aprobadores, digamos. Yo soy una, y el otro es de la dirección... la verdad no tengo claro el cargo exacto con el que está configurado, déjenme confirmarles.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/190-0
+00:28:18.828 --> 00:28:21.538
+<v Sara Montoya>Listo, lo dejamos como pendiente.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/191-0
+00:28:27.787 --> 00:28:33.609
+<v Paula Gaviria>Sí, porque cambiaron hace poco las firmas y no sé cómo quedó.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/192-0
+00:28:38.727 --> 00:28:43.387
+<v Andrés Cárdenas>¿Y ese doble aprobador es para todos los montos?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/193-0
+00:28:48.948 --> 00:28:54.345
+<v Paula Gaviria>Para todos los lotes, sí. El banco exige las dos firmas.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/194-0
+00:28:59.893 --> 00:29:03.990
+<v Sara Montoya>Perfecto. Y cuando el banco paga, ¿qué pasa?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/195-0
+00:29:07.342 --> 00:29:14.054
+<v Paula Gaviria>El banco procesa y nos da la respuesta, los pagos exitosos y los rechazados.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/196-0
+00:29:19.342 --> 00:29:25.715
+<v Paula Gaviria>Los rechazados casi siempre son por cuenta errada o cuenta inactiva del proveedor.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/197-0
+00:29:27.019 --> 00:29:30.018
+<v Andrés Cárdenas>¿Y qué hacen con los rechazados?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/198-0
+00:29:32.979 --> 00:29:40.892
+<v Paula Gaviria>Se reversa el pago en SAP y se le pide al proveedor que actualice la certificación bancaria.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/199-0
+00:29:44.630 --> 00:29:48.865
+<v Luz Marina Ospina>Y ahí entra el tema del proveedor nuevo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/200-0
+00:29:49.802 --> 00:29:52.314
+<v Sara Montoya>Cuéntanos eso, Luz Marina.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/201-0
+00:29:55.360 --> 00:30:06.490
+<v Luz Marina Ospina>Cuando el proveedor es nuevo, a veces se crea en SAP sin los datos bancarios, porque compras lo crea rápido para poder hacer el pedido.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/202-0
+00:30:11.265 --> 00:30:17.551
+<v Luz Marina Ospina>Entonces la factura se causa, pero cuando va a pagar, no tiene cuenta.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/203-0
+00:30:22.236 --> 00:30:27.722
+<v Paula Gaviria>Y la F110 lo saca de la propuesta, no lo toma.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/204-0
+00:30:30.013 --> 00:30:38.699
+<v Julián Restrepo>Y yo tengo que perseguir al proveedor para que mande la certificación bancaria, y luego datos maestros la carga.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/205-0
+00:30:45.343 --> 00:30:48.108
+<v Andrés Cárdenas>¿Datos maestros es otra área?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/206-0
+00:30:53.051 --> 00:30:59.050
+<v Luz Marina Ospina>Sí, es un equipo que maneja los maestros de SAP: clientes, proveedores, materiales.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/207-0
+00:31:01.987 --> 00:31:04.723
+<v Andrés Cárdenas>¿Y eso cuánto se demora?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/208-0
+00:31:09.627 --> 00:31:17.913
+<v Julián Restrepo>Si el proveedor manda rápido la certificación, dos o tres días. Pero hay unos que se demoran semanas.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/209-0
+00:31:22.265 --> 00:31:27.628
+<v Sara Montoya>Listo. Ok, entonces ya pagó el banco. ¿Cómo se entera el proveedor?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/210-0
+00:31:31.758 --> 00:31:35.384
+<v Julián Restrepo>Se le envía el soporte de pago.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/211-0
+00:31:38.637 --> 00:31:47.618
+<v Julián Restrepo>Mira, los pagos salen los miércoles, entonces el jueves yo le mando el soporte a los que lo piden.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/212-0
+00:31:54.600 --> 00:31:59.245
+<v Sara Montoya>¿A todos o solo a los que lo piden?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/213-0
+00:32:04.042 --> 00:32:13.263
+<v Julián Restrepo>SAP manda un aviso de pago automático al correo del proveedor, pero muchos no lo reciben o no lo entienden.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/214-0
+00:32:18.420 --> 00:32:25.700
+<v Julián Restrepo>Entonces los que llaman o escriben, yo les mando el comprobante del banco por correo, manual.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/215-0
+00:32:31.227 --> 00:32:37.474
+<v Paula Gaviria>Sí, y a veces nosotros también, cuando el proveedor llama a Tesorería directamente.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/216-0
+00:32:44.335 --> 00:32:47.920
+<v Andrés Cárdenas>¿Eso cuántos correos son a la semana?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/217-0
+00:32:48.933 --> 00:32:55.824
+<v Julián Restrepo>Uf, no sé, muchos. Unos veinte, treinta a la semana, fácil. No los he contado.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/218-0
+00:33:00.457 --> 00:33:04.648
+<v Sara Montoya>Listo. ¿Y después del pago hay algún archivo?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/219-0
+00:33:10.035 --> 00:33:17.953
+<v Julián Restrepo>Sí, la factura y los soportes quedan en el gestor documental, y en SAP la factura queda compensada.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/220-0
+00:33:20.394 --> 00:33:25.374
+<v Luz Marina Ospina>El archivo físico ya casi no existe, todo es digital.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/221-0
+00:33:28.700 --> 00:33:37.432
+<v Sara Montoya>Entonces, ¿podríamos decir que el proceso termina cuando la factura queda pagada y compensada en SAP y el soporte archivado?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/222-0
+00:33:38.613 --> 00:33:44.340
+<v Luz Marina Ospina>Sí, yo diría que sí. El pago aplicado y la factura compensada.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/223-0
+00:33:46.407 --> 00:33:51.199
+<v Andrés Cárdenas>¿Y qué viene después? ¿Quién recibe lo que ustedes hacen?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/224-0
+00:33:54.367 --> 00:33:58.984
+<v Paula Gaviria>Después viene la conciliación bancaria, que la hacemos en Tesorería.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/225-0
+00:34:00.458 --> 00:34:07.530
+<v Luz Marina Ospina>Y el cierre contable mensual, que depende de que cuentas por pagar esté al día.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/226-0
+00:34:09.936 --> 00:34:16.867
+<v Sara Montoya>Perfecto, ese sería el proceso siguiente. Bueno, ahora quiero que pasemos por los casos especiales.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/227-0
+00:34:28.273 --> 00:34:37.414
+<v Sara Montoya>Ya hablamos de factura sin pedido, de factura que no cruza con la entrada y de proveedor sin datos bancarios.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/228-0
+00:34:41.647 --> 00:34:44.194
+<v Sara Montoya>¿Qué otros casos hay?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/229-0
+00:34:48.169 --> 00:34:49.469
+<v Julián Restrepo>Anticipos.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/230-0
+00:34:56.251 --> 00:34:58.161
+<v Andrés Cárdenas>¿Cómo funcionan los anticipos?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/231-0
+00:35:02.504 --> 00:35:12.702
+<v Julián Restrepo>Cuando un contrato tiene anticipo, se paga antes de recibir la factura. Se hace una solicitud de anticipo en SAP, contra el pedido.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/232-0
+00:35:19.655 --> 00:35:26.287
+<v Julián Restrepo>Y cuando llega la factura, toca cruzar el anticipo, descontarlo del valor a pagar.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/233-0
+00:35:31.058 --> 00:35:37.783
+<v Luz Marina Ospina>Y ahí hay mucho error, porque se olvida cruzar el anticipo y se paga doble.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/234-0
+00:35:43.602 --> 00:35:44.902
+<v Sara Montoya>¿Ha pasado?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/235-0
+00:35:46.240 --> 00:35:53.883
+<v Luz Marina Ospina>Ha pasado, sí. No muchas veces, pero ha pasado. Y recuperar esa plata es un lío.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/236-0
+00:35:58.407 --> 00:36:02.473
+<v Andrés Cárdenas>¿Y quién controla los anticipos pendientes por legalizar?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/237-0
+00:36:07.984 --> 00:36:12.749
+<v Julián Restrepo>Yo, en el mismo Excel. Tengo una pestaña de anticipos.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/238-0
+00:36:13.898 --> 00:36:18.977
+<v Andrés Cárdenas>¿Y el anticipo quién lo paga? ¿También por la F110?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/239-0
+00:36:25.533 --> 00:36:32.345
+<v Paula Gaviria>Sí, la solicitud de anticipo entra a la propuesta como cualquier partida, si está aprobada.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/240-0
+00:36:34.195 --> 00:36:36.138
+<v Sara Montoya>Listo. ¿Otro caso?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/241-0
+00:36:39.893 --> 00:36:47.040
+<v Julián Restrepo>Notas crédito. Cuando el proveedor manda nota crédito porque facturó de más, o por una devolución.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/242-0
+00:36:48.946 --> 00:36:53.703
+<v Julián Restrepo>Esa la registro yo en SAP, contra la factura original.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/243-0
+00:36:57.604 --> 00:37:00.496
+<v Andrés Cárdenas>¿Llega por el mismo buzón?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/244-0
+00:37:05.103 --> 00:37:09.772
+<v Julián Restrepo>Sí, igual, es un documento electrónico, llega al buzón.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/245-0
+00:37:11.003 --> 00:37:15.223
+<v Andrés Cárdenas>¿Y si la factura original ya se pagó?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/246-0
+00:37:21.872 --> 00:37:33.405
+<v Julián Restrepo>Ahí queda un saldo a favor de nosotros y se cruza con la siguiente factura del proveedor. Si no hay siguiente factura, toca pedirle que consigne.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/247-0
+00:37:36.848 --> 00:37:38.733
+<v Sara Montoya>Listo. ¿Servicios públicos?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/248-0
+00:37:42.824 --> 00:37:46.650
+<v Julián Restrepo>Ah sí, servicios públicos es un caso aparte.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/249-0
+00:37:51.175 --> 00:37:57.428
+<v Julián Restrepo>Llegan muchísimas, de EPM, de los acueductos de los municipios, de todas las sedes.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/250-0
+00:38:00.534 --> 00:38:09.167
+<v Julián Restrepo>Esas no tienen pedido, se causan por FB60, y algunas tienen débito automático y otras se pagan por PSE.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/251-0
+00:38:11.786 --> 00:38:14.274
+<v Andrés Cárdenas>¿Por PSE quién paga?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/252-0
+00:38:19.149 --> 00:38:28.454
+<v Paula Gaviria>Nosotros, Tesorería, por fuera de la F110, porque tienen fecha de vencimiento y si no se pagan cortan el servicio.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/253-0
+00:38:32.752 --> 00:38:38.982
+<v Luz Marina Ospina>Y esas son un montón al mes. No sé cuántas, pero un montón.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/254-0
+00:38:41.587 --> 00:38:43.729
+<v Sara Montoya>Listo. ¿Pagos urgentes?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/255-0
+00:38:48.980 --> 00:38:53.629
+<v Paula Gaviria>Sí, a veces nos piden pagos urgentes fuera del ciclo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/256-0
+00:38:56.311 --> 00:39:03.863
+<v Paula Gaviria>Un proveedor crítico, o algo que si no se paga no llega para el evento, cosas así.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/257-0
+00:39:04.822 --> 00:39:09.592
+<v Andrés Cárdenas>¿Hay un monto o un criterio para que sea urgente?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/258-0
+00:39:11.962 --> 00:39:20.866
+<v Paula Gaviria>Pues... depende. Para montos grandes sí toca que lo autorice la dirección, pero no tenemos un monto definido así escrito.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/259-0
+00:39:22.000 --> 00:39:26.605
+<v Luz Marina Ospina>Debería haberlo, yo sé. Pero hoy es caso a caso.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/260-0
+00:39:28.434 --> 00:39:31.903
+<v Andrés Cárdenas>¿Y cómo se hace el pago urgente?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/261-0
+00:39:37.387 --> 00:39:47.386
+<v Paula Gaviria>Se hace una propuesta individual en la F110, o un pago manual directamente en el portal y luego se registra en SAP.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/262-0
+00:39:50.642 --> 00:39:58.847
+<v Julián Restrepo>Y yo me entero porque me escriben: oiga, cáusame esta factura ya, que se va a pagar hoy.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/263-0
+00:40:05.204 --> 00:40:07.752
+<v Sara Montoya>Ok, entendido. ¿Algún otro caso?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/264-0
+00:40:13.197 --> 00:40:14.836
+<v Luz Marina Ospina>Los fondos.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/265-0
+00:40:16.015 --> 00:40:17.753
+<v Sara Montoya>¿Los fondos?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/266-0
+00:40:24.668 --> 00:40:30.716
+<v Luz Marina Ospina>Sí, los fondos de destinación específica. FOVIS, el de vivienda, y fon niñez.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/267-0
+00:40:37.360 --> 00:40:44.420
+<v Luz Marina Ospina>Esos tienen sus propias cuentas bancarias, porque son recursos con destinación específica, no se pueden mezclar.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/268-0
+00:40:45.742 --> 00:40:51.496
+<v Andrés Cárdenas>Entonces la factura de un proveedor de FOVIS, ¿se paga de otra cuenta?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/269-0
+00:40:57.902 --> 00:41:07.223
+<v Luz Marina Ospina>Exacto. Se causa con el centro de costos y el fondo correspondiente, y se paga desde la cuenta del fondo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/270-0
+00:41:10.721 --> 00:41:22.439
+<v Paula Gaviria>Y en la F110 eso se maneja con una vía de pago diferente, para que salga de la cuenta del fondo y no de la cuenta general.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/271-0
+00:41:26.230 --> 00:41:34.160
+<v Julián Restrepo>Y a veces llegan facturas de foninis mezcladas con facturas normales del mismo proveedor, y toca separarlas.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/272-0
+00:41:40.979 --> 00:41:43.280
+<v Andrés Cárdenas>¿Eso quién lo identifica?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/273-0
+00:41:45.642 --> 00:41:49.888
+<v Julián Restrepo>Yo, mirando el pedido y el centro de costos.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/274-0
+00:41:53.959 --> 00:41:58.117
+<v Andrés Cárdenas>¿Y si se paga de la cuenta equivocada?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/275-0
+00:42:04.716 --> 00:42:14.292
+<v Luz Marina Ospina>Eso es un hallazgo seguro de la Superintendencia. Toca hacer el traslado y el ajuste. Por eso somos tan cuidadosos con eso.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/276-0
+00:42:19.580 --> 00:42:28.386
+<v Sara Montoya>Listo, buenísimo. Ahora quiero hablar del cierre de mes. Luz Marina, ¿cómo se vive el cierre en cuentas por pagar?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/277-0
+00:42:32.120 --> 00:42:34.766
+<v Luz Marina Ospina>Uy, el cierre es terrible.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/278-0
+00:42:41.620 --> 00:42:50.348
+<v Luz Marina Ospina>Los últimos días del mes llega una avalancha de facturas, porque los proveedores quieren que les causemos en el mes.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/279-0
+00:42:56.210 --> 00:43:04.225
+<v Luz Marina Ospina>Y todo lo que está represado esperando entrada o pedido, en el cierre toca resolverlo o provisionarlo.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/280-0
+00:43:08.786 --> 00:43:13.407
+<v Andrés Cárdenas>¿Y cuántas facturas manejan en un mes de cierre fuerte?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/281-0
+00:43:14.984 --> 00:43:21.665
+<v Luz Marina Ospina>Pues mira, en diciembre fácil son más de 2.000. Y un mes normal unas 1.500.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/282-0
+00:43:26.352 --> 00:43:29.138
+<v Andrés Cárdenas>Ok. Julián había dicho unas 1.800.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/283-0
+00:43:32.795 --> 00:43:40.670
+<v Luz Marina Ospina>Ah, bueno, sí, puede ser, depende de cómo se cuente, si con notas, si con servicios públicos...</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/284-0
+00:43:42.787 --> 00:43:47.129
+<v Sara Montoya>Lo dejamos para validarlo con un reporte, ¿les parece?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/285-0
+00:43:48.320 --> 00:43:54.067
+<v Luz Marina Ospina>Sí, yo le pido a alguien que saque el reporte de SAP.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/286-0
+00:43:58.167 --> 00:43:59.467
+<v Sara Montoya>Perfecto.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/287-0
+00:44:01.099 --> 00:44:06.120
+<v Andrés Cárdenas>Luz Marina, y para ti, ¿quién aprueba las facturas grandes?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/288-0
+00:44:09.698 --> 00:44:15.250
+<v Luz Marina Ospina>Por encima de cincuenta millones eso lo aprueba el Director Financiero.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/289-0
+00:44:20.204 --> 00:44:26.840
+<v Luz Marina Ospina>Bueno, también hay otras que pasan por mí, pero las grandes van al Director.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/290-0
+00:44:30.496 --> 00:44:31.796
+<v Sara Montoya>Listo, anotado.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/291-0
+00:44:34.271 --> 00:44:39.484
+<v Andrés Cárdenas>¿Y el cierre tiene alguna fecha de corte para recibir facturas?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/292-0
+00:44:43.914 --> 00:44:52.325
+<v Luz Marina Ospina>Sí, hay una circular que se manda cada mes con la fecha de corte de facturación, normalmente el 25.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/293-0
+00:44:55.761 --> 00:45:01.926
+<v Luz Marina Ospina>Pero igual llegan después, y uno no le puede decir al proveedor que no.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/294-0
+00:45:07.552 --> 00:45:11.912
+<v Julián Restrepo>Y ahí es cuando yo me quedo hasta tarde.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/295-0
+00:45:16.028 --> 00:45:20.132
+<v Sara Montoya>Jaja, entendido. Represamiento al cierre, otro dolor importante.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/296-0
+00:45:27.100 --> 00:45:32.107
+<v Andrés Cárdenas>¿Y lo que queda represado al cierre cómo se maneja contablemente?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/297-0
+00:45:38.800 --> 00:45:52.807
+<v Luz Marina Ospina>Se provisiona lo que tiene entrada de mercancía y no tiene factura, eso SAP lo deja en la cuenta puente. Lo que no tiene ni entrada, pues queda para el mes siguiente.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/298-0
+00:46:02.167 --> 00:46:08.992
+<v Andrés Cárdenas>Bueno, otra pregunta. ¿Ustedes tienen algún indicador del proceso? ¿Tiempos de pago, facturas pendientes, algo?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/299-0
+00:46:11.321 --> 00:46:14.988
+<v Luz Marina Ospina>Eh, Andrés, ¿me repites? Se me está...</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/300-0
+00:46:41.557 --> 00:46:46.376
+<v Sara Montoya>Parece que se le cayó la llamada a Luz Marina.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/301-0
+00:46:52.703 --> 00:46:57.589
+<v Julián Restrepo>Sí, ella tiene problemas con la conexión en esa sala.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/302-0
+00:47:03.254 --> 00:47:06.962
+<v Andrés Cárdenas>Bueno, Julián, ¿tú sabes si hay indicadores?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/303-0
+00:47:11.653 --> 00:47:18.937
+<v Julián Restrepo>Pues formal, formal, no. Luz Marina mira algo de días de pago pero no es oficial.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/304-0
+00:47:22.004 --> 00:47:33.823
+<v Julián Restrepo>Ella saca un reporte de vez en cuando para ver cuánto nos demoramos en pagar, pero no es un indicador del mapa de procesos ni nada.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/305-0
+00:47:36.354 --> 00:47:43.997
+<v Paula Gaviria>Nosotros en Tesorería sí miramos el flujo de caja, pero indicador del proceso como tal, no.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/306-0
+00:47:49.055 --> 00:47:55.699
+<v Andrés Cárdenas>¿Y un ANS? Un acuerdo de niveles de servicio con proveedores o con las áreas.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/307-0
+00:48:00.024 --> 00:48:10.664
+<v Paula Gaviria>Con proveedores se paga según el plazo del contrato, que normalmente es a treinta días, pero ANS como tal no sé si hay.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/308-0
+00:48:15.152 --> 00:48:19.687
+<v Julián Restrepo>Yo tampoco sé. Habría que preguntarle a Luz Marina.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/309-0
+00:48:34.428 --> 00:48:36.847
+<v Luz Marina Ospina>Ya volví, perdón. ¿Me escuchan?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/310-0
+00:48:42.322 --> 00:48:47.946
+<v Sara Montoya>Sí, Luz Marina, te escuchamos. Estábamos preguntando por indicadores y por ANS.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/311-0
+00:48:49.979 --> 00:49:03.808
+<v Luz Marina Ospina>Ah, no, indicador formal no tenemos. Y ANS, eso habría que mirarlo. Creo que en el manual de contratación habla de plazos, pero no sé si hay un ANS como tal.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/312-0
+00:49:06.202 --> 00:49:09.167
+<v Sara Montoya>Listo, lo dejamos como pendiente.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/313-0
+00:49:16.026 --> 00:49:27.128
+<v Andrés Cárdenas>Una pregunta más de la operación. Julián, ¿cómo llevas el control de los recordatorios? Porque dijiste que les escribes a compras y a las sedes.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/314-0
+00:49:33.595 --> 00:49:45.257
+<v Julián Restrepo>Sí, los recordatorios los mando a mano, por correo. Cada lunes reviso el Excel y le mando correo a cada área con lo que tiene pendiente.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/315-0
+00:49:51.499 --> 00:49:55.294
+<v Julián Restrepo>Y si no responden, pues el WhatsApp.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/316-0
+00:49:56.408 --> 00:49:59.719
+<v Andrés Cárdenas>¿A cuántas áreas más o menos?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/317-0
+00:50:00.963 --> 00:50:05.654
+<v Julián Restrepo>Uf, como quince o veinte, entre áreas y sedes.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/318-0
+00:50:08.182 --> 00:50:11.260
+<v Andrés Cárdenas>¿Y eso cuánto tiempo te toma?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/319-0
+00:50:14.730 --> 00:50:17.940
+<v Julián Restrepo>Los lunes, toda la mañana. Fácil.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/320-0
+00:50:22.621 --> 00:50:28.496
+<v Sara Montoya>Wow. Bueno. Luz Marina, ¿tú qué cambiarías si pudieras cambiar una sola cosa?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/321-0
+00:50:29.995 --> 00:50:37.935
+<v Luz Marina Ospina>Que no llegara ni una factura sin pedido. Con eso se nos va la mitad del problema.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/322-0
+00:50:42.117 --> 00:50:48.847
+<v Paula Gaviria>Y para mí, que los datos bancarios estén desde que se crea el proveedor.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/323-0
+00:50:50.163 --> 00:50:58.897
+<v Julián Restrepo>Y para mí, que la entrada de mercancía la hagan a tiempo. Eso es lo que más me represa.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/324-0
+00:51:00.298 --> 00:51:08.235
+<v Sara Montoya>Listo, muy claro. Bueno, ya casi vamos en la hora. Déjenme hacer un resumen rápido para validar.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/325-0
+00:51:13.239 --> 00:51:26.780
+<v Sara Montoya>El proceso arranca con la llegada de la factura electrónica al buzón. Antes de eso está compras, con el pedido, y el almacén o la sede, con la entrada de mercancía.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/326-0
+00:51:31.017 --> 00:51:42.911
+<v Sara Montoya>Julián revisa el buzón, valida ante la DIAN y hace los eventos de RADIAN: acuse, recibo del bien y aceptación, en la plataforma del proveedor tecnológico.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/327-0
+00:51:47.640 --> 00:52:00.016
+<v Sara Montoya>Luego verifica contra pedido y entrada en SAP. Si no cuadra, escribe a compras por correo o por WhatsApp, y lo anota en su Excel de pendientes.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/328-0
+00:52:03.168 --> 00:52:12.563
+<v Sara Montoya>Después causa: MIRO si tiene pedido, FB60 si no tiene. Ahí se calculan retención en la fuente, ReteICA y ReteIVA.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/329-0
+00:52:16.360 --> 00:52:23.744
+<v Sara Montoya>Luego vienen las aprobaciones según el monto, por correo, y se libera el bloqueo en SAP.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/330-0
+00:52:25.904 --> 00:52:38.998
+<v Sara Montoya>Tesorería corre la propuesta de pago en la F110, la revisa, genera el archivo y lo sube al portal de Bancolombia o Davivienda, donde se aprueba con dos firmas.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/331-0
+00:52:41.971 --> 00:52:51.331
+<v Sara Montoya>Se envía el soporte de pago al proveedor, se archiva en el gestor documental y la factura queda compensada en SAP.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/332-0
+00:52:56.755 --> 00:53:03.124
+<v Sara Montoya>Y después vienen la conciliación bancaria y el cierre contable mensual. ¿Voy bien?</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/333-0
+00:53:09.120 --> 00:53:11.196
+<v Luz Marina Ospina>Sí, muy bien.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/334-0
+00:53:12.523 --> 00:53:14.243
+<v Julián Restrepo>Sí, eso es.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/335-0
+00:53:15.848 --> 00:53:30.574
+<v Andrés Cárdenas>Yo tengo anotados como casos especiales: factura sin pedido, factura que no cruza con la entrada, proveedor nuevo sin datos bancarios, anticipos, notas crédito, servicios públicos, pagos urgentes y los fondos FOVIS y Foniñez.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/336-0
+00:53:36.391 --> 00:53:37.751
+<v Paula Gaviria>Sí, eso.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/337-0
+00:53:42.434 --> 00:53:56.211
+<v Sara Montoya>Y los pendientes que tengo son: confirmar quién aprueba en el portal bancario, el volumen real de facturas con un reporte, si existe algún ANS, y el criterio para pagos urgentes.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/338-0
+00:54:01.781 --> 00:54:08.051
+<v Andrés Cárdenas>Y lo del Excel, Julián, al final no nos dijiste dónde lo tienes.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/339-0
+00:54:10.226 --> 00:54:19.278
+<v Julián Restrepo>Ah, sí, verdad. Bueno, eso se los cuento la otra vez, que ya me están llamando de la otra reunión.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/340-0
+00:54:22.743 --> 00:54:29.772
+<v Sara Montoya>Listo, sin problema. Agendamos una segunda sesión para la otra semana, más cortica, para cerrar pendientes.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/341-0
+00:54:32.221 --> 00:54:35.541
+<v Luz Marina Ospina>Listo, de acuerdo. Mándame la invitación.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/342-0
+00:54:41.362 --> 00:54:44.586
+<v Paula Gaviria>Perfecto. Yo les confirmo lo del portal.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/343-0
+00:54:47.713 --> 00:54:52.728
+<v Sara Montoya>Muchas gracias a todos, muy valioso. Que estén muy bien.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/344-0
+00:54:57.594 --> 00:54:58.894
+<v Andrés Cárdenas>Gracias, chao.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/345-0
+00:55:05.811 --> 00:55:07.111
+<v Julián Restrepo>Chao, gracias.</v>
+
+3f2a9c1e-1b2c-4d5e-8f90-a1b2c3d4e5f6/346-0
+00:55:09.972 --> 00:55:12.000
+<v Luz Marina Ospina>Gracias, hasta luego.</v>

@@ -1,0 +1,100 @@
+@import "tailwindcss";
+@import "./icons.css";
+
+/*
+ * Tokens del sistema de diseño Comfama (Claude Design, tomados de comfama.com).
+ * Los componentes usan solo estas variables; el sistema es de un solo tema (claro).
+ */
+:root {
+  /* Primario: magenta */
+  --cf-primary-50: #fce3ed;
+  --cf-primary-100: #f8b8d1;
+  --cf-primary: #db0061;
+  --cf-primary-hover: #c5005c;
+  --cf-primary-dark: #8a0051;
+  /* Grises */
+  --cf-gray-100: #f8f8f8;
+  --cf-gray-200: #f3f3f3;
+  --cf-gray-400: #cfcfcf;
+  --cf-gray-700: #737373;
+  --cf-gray-800: #535353;
+  --cf-gray-900: #303030;
+  /* Terciario: lavanda */
+  --cf-tertiary-50: #f6f8ff;
+  --cf-tertiary-100: #f0f3ff;
+  --cf-tertiary-200: #e9ebff;
+  --cf-tertiary-300: #daddf5;
+  --cf-tertiary-700: #5b5e72;
+  /* Semánticos */
+  --cf-success-50: #eff5e3;
+  --cf-success-dark: #5f8800;
+  --cf-warning-50: #fff9e6;
+  --cf-warning-dark: #aa8110;
+  --cf-error-50: #fde3ea;
+  --cf-error-dark: #9d002a;
+  --cf-info-50: #e3effd;
+  --cf-info-dark: #004b9d;
+  --cf-focus: #0071eb;
+
+  --text-title: #303030;
+  --text-body: #303030;
+  --text-subtle: #535353;
+  --text-muted: #707070;
+  --surface-page: #ffffff;
+  --surface-card: #f8f8f8;
+  --surface-lavender: #f6f8ff;
+  --surface-tile: #f0f3ff;
+  --border-default: #e8e8e8;
+  --border-tile: #e9ebff;
+
+  --ease-standard: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@theme inline {
+  --color-primario: var(--cf-primary);
+  --color-primario-hover: var(--cf-primary-hover);
+  --color-primario-suave: var(--cf-primary-50);
+  --color-lavanda: var(--surface-lavender);
+  --color-baldosa: var(--surface-tile);
+  --color-borde-baldosa: var(--border-tile);
+  --color-borde-input: var(--cf-tertiary-300);
+  --color-terciario: var(--cf-tertiary-700);
+  --color-tarjeta: var(--surface-card);
+  --color-pagina: var(--surface-page);
+  --color-borde: var(--border-default);
+  --color-titulo: var(--text-title);
+  --color-texto: var(--text-body);
+  --color-texto-suave: var(--text-subtle);
+  --color-texto-tenue: var(--text-muted);
+  --color-exito-suave: var(--cf-success-50);
+  --color-exito: var(--cf-success-dark);
+  --color-alerta-suave: var(--cf-warning-50);
+  --color-alerta: var(--cf-warning-dark);
+  --color-error-suave: var(--cf-error-50);
+  --color-error: var(--cf-error-dark);
+  --color-info-suave: var(--cf-info-50);
+  --color-info: var(--cf-info-dark);
+
+  --radius-baldosa: 16px;
+  --radius-media: 24px;
+  --radius-panel: 32px;
+
+  --font-sans: var(--font-roboto), Helvetica, Arial, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+body {
+  background: var(--surface-page);
+  color: var(--text-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  transition: color 200ms var(--ease-standard), background-color 200ms var(--ease-standard),
+    border-color 200ms var(--ease-standard);
+}
+
+:focus-visible {
+  outline: 2px solid var(--cf-focus);
+  outline-offset: 2px;
+}

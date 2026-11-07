@@ -1,0 +1,977 @@
+WEBVTT
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/10-0
+00:00:03.000 --> 00:00:07.085
+<v Sara Montoya>Buenos días a todos. ¿Me escuchan bien?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/11-0
+00:00:08.256 --> 00:00:11.861
+<v Paula Gaviria>Sí, Sara, buenos días. Te escuchamos bien.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/12-0
+00:00:16.172 --> 00:00:20.000
+<v Camilo Zapata>Buenos días. Sí, se escucha perfecto.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/13-0
+00:00:22.248 --> 00:00:29.224
+<v Sara Montoya>Listo. Esperemos un minutico a Andrés que me dijo que ya se estaba conectando.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/14-0
+00:01:36.372 --> 00:01:42.657
+<v Andrés Cárdenas>Hola, hola, ¿ya me escuchan? Perdón, es que Teams me pidió actualizar.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/15-0
+00:01:44.182 --> 00:01:50.127
+<v Sara Montoya>Sí, Andrés, ya te escuchamos. Tranquilo, apenas estamos empezando.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/16-0
+00:01:52.786 --> 00:01:59.571
+<v Sara Montoya>Bueno, gracias por el espacio, sé que estamos en semana pesada para tesorería.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/17-0
+00:02:05.130 --> 00:02:19.109
+<v Sara Montoya>Les cuento rápido el objetivo. Hoy vamos a hacer el levantamiento AS IS del proceso de conciliación bancaria, el que en el inventario del área tenemos como P-FIN-02.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/18-0
+00:02:22.495 --> 00:02:34.814
+<v Sara Montoya>La idea es entender cómo lo hacen hoy de verdad, no como dice el procedimiento. Lo que pasa en el día a día, con los Excel, los correos, todo.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/19-0
+00:02:36.870 --> 00:02:48.786
+<v Sara Montoya>Andrés es el consultor de procesos que nos está acompañando en el mapeo de Gestión Financiera, él va a estar haciendo la mayoría de preguntas.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/20-0
+00:02:49.679 --> 00:02:54.388
+<v Andrés Cárdenas>Mucho gusto, Paula, Camilo. Gracias por sacar el tiempo.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/21-0
+00:02:56.686 --> 00:02:59.658
+<v Paula Gaviria>Con gusto, Andrés, bienvenido.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/22-0
+00:03:04.720 --> 00:03:15.064
+<v Sara Montoya>Y les aviso que la reunión se está grabando y transcribiendo, para después armar la ficha y el diagrama. ¿Están de acuerdo?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/23-0
+00:03:18.529 --> 00:03:21.310
+<v Paula Gaviria>Sí, claro, no hay problema.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/24-0
+00:03:22.186 --> 00:03:24.375
+<v Camilo Zapata>Sí, de acuerdo.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/25-0
+00:03:25.796 --> 00:03:31.216
+<v Sara Montoya>Bueno. Paula, ¿nos presentas un poquito tu rol y el de Camilo?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/26-0
+00:03:36.794 --> 00:03:49.562
+<v Paula Gaviria>Sí. Yo soy Paula Gaviria, la tesorera. Tengo a cargo el manejo de las cuentas bancarias, los pagos, las inversiones, el flujo de caja y la conciliación.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/27-0
+00:03:51.201 --> 00:04:00.900
+<v Paula Gaviria>Camilo es el analista de tesorería. Él es el que hace la conciliación como tal, el día a día. Yo reviso y firmo.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/28-0
+00:04:05.505 --> 00:04:14.339
+<v Camilo Zapata>Sí, yo soy Camilo Zapata, llevo como tres años en el cargo, haciendo básicamente todo lo de bancos.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/29-0
+00:04:19.473 --> 00:04:26.821
+<v Andrés Cárdenas>Perfecto. Para arrancar, ¿cuál es el objetivo del proceso, en palabras de ustedes?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/30-0
+00:04:31.391 --> 00:04:48.922
+<v Paula Gaviria>Pues garantizar que lo que está en libros, en SAP, cuadre con lo que dicen los bancos. Que el saldo contable de cada cuenta sea igual al saldo del extracto, o que las diferencias estén explicadas y soportadas.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/31-0
+00:04:54.414 --> 00:04:58.897
+<v Andrés Cárdenas>Listo. ¿Y qué dispara el proceso? ¿Cuándo empieza?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/32-0
+00:05:00.436 --> 00:05:12.846
+<v Paula Gaviria>Formalmente empieza cuando cierra el mes y tenemos los extractos de todos los bancos. Eso normalmente es el primer día hábil del mes siguiente.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/33-0
+00:05:17.057 --> 00:05:33.300
+<v Camilo Zapata>Aunque, bueno, si me permites, Paula, en la práctica yo voy cargando los extractos todos los días. La cuenta principal de Bancolombia la voy mirando diario, si no al final del mes es imposible.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/34-0
+00:05:36.619 --> 00:05:43.268
+<v Paula Gaviria>Sí, sí, es cierto. Pero la conciliación formal, la que se firma, es mensual.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/35-0
+00:05:48.490 --> 00:05:55.082
+<v Andrés Cárdenas>Ok, entonces hay una parte diaria y un cierre mensual. Tengámoslo presente.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/36-0
+00:05:59.854 --> 00:06:06.535
+<v Sara Montoya>Sí, yo lo anoto. ¿Y qué viene antes? ¿De qué procesos les llega información?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/37-0
+00:06:11.554 --> 00:06:23.797
+<v Paula Gaviria>Principalmente de cuentas por pagar. Los pagos a proveedores los programa y los ejecuta el equipo de Julián, eso es causación y pago a proveedores.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/38-0
+00:06:26.782 --> 00:06:40.102
+<v Paula Gaviria>A nosotros nos llegan los pagos ya ejecutados, o sea, ya salió la plata. Y nosotros tenemos que verificar que eso que salió del banco esté bien registrado.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/39-0
+00:06:45.302 --> 00:06:55.396
+<v Camilo Zapata>Exacto. Ellos me mandan el reporte de la corrida de pagos, el archivo plano que se subió al banco, y con eso yo cruzo.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/40-0
+00:06:58.505 --> 00:07:02.244
+<v Andrés Cárdenas>¿Ese reporte cómo llega? ¿Por correo?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/41-0
+00:07:04.571 --> 00:07:15.829
+<v Camilo Zapata>Por correo, sí. Julián o alguien del equipo me lo manda el mismo día del pago. A veces se les olvida y yo tengo que pedirlo por el chat.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/42-0
+00:07:17.391 --> 00:07:24.471
+<v Andrés Cárdenas>Ok. ¿Y además de pagos a proveedores, qué otros movimientos tienen las cuentas?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/43-0
+00:07:26.526 --> 00:07:39.132
+<v Paula Gaviria>Uf, de todo. Recaudo de aportes, que es lo más grande, pagos de nómina, subsidio monetario, recaudos de los servicios, hoteles, parques, créditos.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/44-0
+00:07:41.386 --> 00:07:49.836
+<v Paula Gaviria>Y lo del banco como tal, comisiones, el cuatro por mil, rendimientos de las cuentas de ahorro.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/45-0
+00:07:54.003 --> 00:07:57.929
+<v Andrés Cárdenas>¿Cuántas cuentas bancarias concilian?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/46-0
+00:08:01.188 --> 00:08:09.471
+<v Paula Gaviria>Son veintitrés cuentas. En Bancolombia y Davivienda principalmente, y un par en Banco de Bogotá.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/47-0
+00:08:13.068 --> 00:08:22.029
+<v Camilo Zapata>Eh, Paula, yo creo que son veintisiete. Es que con las de convenios y las del FOVIS quedan veintisiete.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/48-0
+00:08:23.793 --> 00:08:32.243
+<v Paula Gaviria>¿Veintisiete? No, las de convenios no las conciliamos nosotros. Bueno, no sé, eso hay que revisarlo.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/49-0
+00:08:37.509 --> 00:08:45.079
+<v Camilo Zapata>Yo sí las concilio. Las cuatro de convenios las hago yo también, en la misma plantilla.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/50-0
+00:08:46.204 --> 00:08:54.903
+<v Sara Montoya>Bueno, dejo eso como un dato a confirmar, el número exacto de cuentas que entran en la conciliación.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/51-0
+00:08:59.165 --> 00:09:07.462
+<v Andrés Cárdenas>Listo. Vamos paso a paso entonces. Camilo, el primer día hábil, ¿qué es lo primero que haces?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/52-0
+00:09:09.146 --> 00:09:21.592
+<v Camilo Zapata>Lo primero es descargar los extractos. Entro al portal de Banco Colombia, a la sucursal virtual empresas, y descargo el extracto de cada cuenta.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/53-0
+00:09:22.637 --> 00:09:32.953
+<v Camilo Zapata>Lo descargo en el formato multicash, que es el que SAP lee. Y el de Davivienda lo saco del portal empresarial de ellos.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/54-0
+00:09:35.032 --> 00:09:39.274
+<v Andrés Cárdenas>¿Y eso es manual? ¿Entras cuenta por cuenta?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/55-0
+00:09:44.258 --> 00:09:55.199
+<v Camilo Zapata>Cuenta por cuenta, sí. En Bancolombia hay una opción de descarga masiva pero no me ha funcionado bien, entonces lo hago una por una.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/56-0
+00:09:58.480 --> 00:10:00.565
+<v Andrés Cárdenas>¿Cuánto te demora eso?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/57-0
+00:10:02.508 --> 00:10:13.391
+<v Camilo Zapata>Eh, la descarga, pues, unos cuarenta minutos, una hora. Depende de cómo esté el portal. Hay días que el de Davivienda se cae.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/58-0
+00:10:18.399 --> 00:10:21.488
+<v Andrés Cárdenas>Y si el portal se cae, ¿qué haces?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/59-0
+00:10:25.707 --> 00:10:36.245
+<v Camilo Zapata>Pues espero, o le escribo al ejecutivo de cuenta por WhatsApp y él me lo manda en PDF o en Excel. Eso ha pasado varias veces.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/60-0
+00:10:38.755 --> 00:10:43.620
+<v Sara Montoya>O sea que hay un canal informal por WhatsApp con el banco.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/61-0
+00:10:47.626 --> 00:10:53.884
+<v Camilo Zapata>Sí, la verdad sí. Es más rápido que abrir un caso en la línea empresarial.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/62-0
+00:10:59.249 --> 00:11:04.875
+<v Paula Gaviria>Eso no está en el procedimiento, obviamente. Pero sí, funciona así.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/63-0
+00:11:09.155 --> 00:11:13.295
+<v Andrés Cárdenas>Ok. Ya tienes el extracto descargado, ¿qué sigue?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/64-0
+00:11:15.290 --> 00:11:23.987
+<v Camilo Zapata>Lo cargo a SAP con la efe efe guion bajo cinco. Esa es la transacción para cargar el extracto electrónico.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/65-0
+00:11:25.506 --> 00:11:28.157
+<v Andrés Cárdenas>La FF_5, listo.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/66-0
+00:11:32.253 --> 00:11:42.200
+<v Camilo Zapata>Esa. Ahí SAP lee el archivo y con las reglas que tenemos configuradas trata de contabilizar y compensar automáticamente.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/67-0
+00:11:43.170 --> 00:11:52.398
+<v Paula Gaviria>Y todo se carga automático, todas las cuentas por la FF_5. Eso lo dejamos así desde la implementación de SAP.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/68-0
+00:11:53.890 --> 00:12:07.202
+<v Camilo Zapata>Bueno, todas no, Paula. Las de Davivienda no cargan, el formato que da Davivienda SAP no lo lee bien. Esas las hago manual con la efe efe sesenta y siete.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/69-0
+00:12:09.624 --> 00:12:15.373
+<v Paula Gaviria>Ah, ¿todavía? Yo pensé que eso ya lo habían arreglado con tecnología.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/70-0
+00:12:19.715 --> 00:12:31.207
+<v Camilo Zapata>No, eso se quedó en un requerimiento que nunca salió. Entonces las seis cuentas de Davivienda las registro a mano, partida por partida.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/71-0
+00:12:33.595 --> 00:12:38.846
+<v Andrés Cárdenas>¿Cuántos movimientos tienen esas cuentas de Davivienda al mes?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/72-0
+00:12:41.771 --> 00:12:53.036
+<v Camilo Zapata>Depende la cuenta. La recaudadora de Davivienda tiene bastante, como unos ochocientos, novecientos movimientos al mes. Las otras poquitos.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/73-0
+00:12:57.366 --> 00:13:00.019
+<v Andrés Cárdenas>¿Y todo eso lo digitas?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/74-0
+00:13:04.425 --> 00:13:15.186
+<v Camilo Zapata>No todo, uso una macro que me organiza los datos para copiar y pegar en la sesenta y siete. Pero sí, en el fondo es manual.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/75-0
+00:13:19.350 --> 00:13:22.240
+<v Sara Montoya>¿Esa macro quién la hizo?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/76-0
+00:13:24.089 --> 00:13:32.187
+<v Camilo Zapata>La hice yo, con ayuda de un compañero que ya no está. Está en mi computador, en el escritorio.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/77-0
+00:13:34.474 --> 00:13:42.643
+<v Sara Montoya>Anoto: macro local, no está en un repositorio compartido. Si tú te enfermas, ¿quién la corre?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/78-0
+00:13:45.564 --> 00:13:51.446
+<v Camilo Zapata>Pues, nadie (ríe). Bueno, Paula sabe más o menos, pero no la ha usado.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/79-0
+00:13:52.823 --> 00:13:56.522
+<v Paula Gaviria>Sí, eso es un riesgo, lo reconozco.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/80-0
+00:13:59.179 --> 00:14:06.247
+<v Andrés Cárdenas>Bueno. Después del cargue, ¿qué pasa con lo que SAP no compensa automáticamente?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/81-0
+00:14:07.702 --> 00:14:11.994
+<v Camilo Zapata>Eso queda pendiente y lo trabajo en la fe van.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/82-0
+00:14:14.005 --> 00:14:16.773
+<v Andrés Cárdenas>¿Perdón, en cuál?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/83-0
+00:14:19.559 --> 00:14:31.604
+<v Camilo Zapata>La FEBAN, la de post-procesamiento del extracto. Ahí veo las partidas que quedaron sin contabilizar o sin compensar y las trabajo una por una.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/84-0
+00:14:35.056 --> 00:14:39.191
+<v Andrés Cárdenas>¿Qué porcentaje queda sin compensar, más o menos?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/85-0
+00:14:40.226 --> 00:14:50.459
+<v Camilo Zapata>Uy, no sé exacto. En Bancolombia yo diría que un quince, veinte por ciento. Depende del mes. En enero y en diciembre es más.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/86-0
+00:14:51.997 --> 00:14:54.064
+<v Andrés Cárdenas>¿Por qué en esos meses?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/87-0
+00:14:57.889 --> 00:15:12.245
+<v Camilo Zapata>Por los volúmenes. En diciembre están las primas, el subsidio, muchos pagos. Y en enero las empresas pagan los aportes con el incremento del mínimo y llegan valores diferentes.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/88-0
+00:15:17.750 --> 00:15:23.397
+<v Andrés Cárdenas>Ok. ¿Y cuántos movimientos en total, sumando todas las cuentas?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/89-0
+00:15:28.955 --> 00:15:38.622
+<v Camilo Zapata>En total yo diría que entre treinta y cinco mil y cuarenta mil movimientos al mes. La mayoría son de recaudo.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/90-0
+00:15:41.528 --> 00:15:47.354
+<v Paula Gaviria>Sí, la cuenta recaudadora de Bancolombia sola tiene como veinte mil.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/91-0
+00:15:50.967 --> 00:15:56.408
+<v Andrés Cárdenas>Bien. Hablemos de los pagos a proveedores. ¿Cómo concilias eso?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/92-0
+00:16:01.029 --> 00:16:16.928
+<v Camilo Zapata>Los pagos salen de la cuenta pagadora. En SAP los pagos quedan en una cuenta puente, la de pagos en tránsito. Cuando llega el extracto, el débito del banco se cruza contra esa cuenta puente.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/93-0
+00:16:18.927 --> 00:16:31.935
+<v Camilo Zapata>Si el valor del lote coincide, se compensa solo con la regla. Si no, yo lo compenso con la efe punto trece, la compensación automática, o a mano si toca.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/94-0
+00:16:35.234 --> 00:16:37.573
+<v Andrés Cárdenas>¿Y cuándo no coincide?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/95-0
+00:16:38.505 --> 00:16:51.749
+<v Camilo Zapata>Cuando hay pagos rechazados. Por ejemplo, el proveedor tiene la cuenta cancelada o el número de cuenta está mal. El banco devuelve la plata uno o dos días después.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/96-0
+00:16:53.047 --> 00:16:55.814
+<v Andrés Cárdenas>¿Y qué haces con un rechazo?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/97-0
+00:16:57.737 --> 00:17:13.876
+<v Camilo Zapata>Le escribo a Julián, de cuentas por pagar, con el detalle: proveedor, valor, motivo del rechazo. Ellos reversan el pago en SAP y lo vuelven a programar cuando el proveedor actualiza los datos.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/98-0
+00:17:15.514 --> 00:17:17.794
+<v Andrés Cárdenas>¿Cuántos rechazos al mes?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/99-0
+00:17:19.604 --> 00:17:28.069
+<v Camilo Zapata>Normalmente entre diez y veinte. Pero hay meses de cuarenta, cuando entran muchos proveedores nuevos.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/100-0
+00:17:31.070 --> 00:17:42.167
+<v Paula Gaviria>Y eso es un dolor, porque mientras cuentas por pagar no reversa, la partida queda abierta en la conciliación. A veces dura semanas.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/101-0
+00:17:46.024 --> 00:17:50.872
+<v Andrés Cárdenas>¿Hay un tiempo acordado con cuentas por pagar para eso?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/102-0
+00:17:56.005 --> 00:18:04.455
+<v Paula Gaviria>Mmm, no, no hay un acuerdo escrito. Se supone que debería ser rápido, pero no hay un tiempo definido.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/103-0
+00:18:08.732 --> 00:18:17.623
+<v Sara Montoya>Ok, eso lo dejo como pendiente: no hay acuerdo de servicio con cuentas por pagar para los rechazos.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/104-0
+00:18:20.851 --> 00:18:24.598
+<v Andrés Cárdenas>¿Y han tenido casos de pagos duplicados?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/105-0
+00:18:25.607 --> 00:18:42.672
+<v Camilo Zapata>Sí, una vez, el año pasado. Se subió dos veces el mismo archivo al portal y se le pagó doble a como quince proveedores. Eso lo detecté yo en la conciliación, porque el débito no me cuadraba con la corrida.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/106-0
+00:18:45.966 --> 00:18:53.220
+<v Paula Gaviria>Fue un susto. Tocó pedirles a los proveedores que devolvieran la plata, uno por uno.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/107-0
+00:18:54.434 --> 00:18:57.499
+<v Andrés Cárdenas>¿Y desde eso cambió algún control?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/108-0
+00:19:00.027 --> 00:19:12.389
+<v Paula Gaviria>Pues ahora yo reviso en el portal antes de aprobar que no haya un lote igual del mismo día. Pero es una revisión visual, no hay nada automático.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/109-0
+00:19:17.594 --> 00:19:25.650
+<v Sara Montoya>Anotado como control manual en la aprobación del portal, aunque eso es más del lado de pagos.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/110-0
+00:19:27.808 --> 00:19:34.256
+<v Andrés Cárdenas>Listo. Hablemos ahora de las consignaciones que no se sabe de quién son.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/111-0
+00:19:36.813 --> 00:19:48.040
+<v Camilo Zapata>Ah, las partidas no identificadas. Eso es lo más duro. Son abonos que llegan al extracto y no sabemos quién los hizo ni por qué.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/112-0
+00:19:52.107 --> 00:20:02.962
+<v Camilo Zapata>La mayoría son aportes. Empresas que pagan por fuera de la PILA, que consignan directo, o que pagan por transferencia sin referencia.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/113-0
+00:20:05.199 --> 00:20:07.280
+<v Andrés Cárdenas>¿Cómo las trabajas?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/114-0
+00:20:11.285 --> 00:20:27.277
+<v Camilo Zapata>Las saco de la FEBAN a un Excel, el de partidas pendientes. Y cada una la reviso: miro el NIT si viene, la referencia, el nombre del ordenante. Llamo al banco si toca para pedir el soporte.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/115-0
+00:20:30.216 --> 00:20:42.589
+<v Camilo Zapata>Cuando la identifico, si es aporte, le aviso al equipo de aportes para que la apliquen. Si es otra cosa, de servicios, le aviso al área que corresponda.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/116-0
+00:20:45.694 --> 00:20:50.462
+<v Andrés Cárdenas>¿Y el equipo de aportes también revisa esas partidas?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/117-0
+00:20:54.063 --> 00:21:02.990
+<v Paula Gaviria>Creo que ellos también hacen su revisión, sí. Natalia tiene a alguien mirando el extracto, ¿cierto, Camilo?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/118-0
+00:21:05.123 --> 00:21:18.342
+<v Camilo Zapata>Sí, Hernán creo que mira el portal de Bancolombia todos los días. Pero nosotros hacemos la nuestra igual, porque la conciliación la tenemos que entregar nosotros.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/119-0
+00:21:23.614 --> 00:21:29.152
+<v Andrés Cárdenas>O sea, ¿las dos áreas revisan las mismas partidas por separado?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/120-0
+00:21:33.555 --> 00:21:46.296
+<v Camilo Zapata>Pues, sí, en la práctica sí. A veces yo identifico algo que ellos ya habían identificado, o al revés. Nos damos cuenta cuando ya los dos hicimos la llamada.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/121-0
+00:21:49.814 --> 00:21:56.008
+<v Sara Montoya>Lo anoto como posible duplicidad, para revisarlo en la sesión de aportes.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/122-0
+00:21:59.004 --> 00:22:03.437
+<v Andrés Cárdenas>¿Cuántas partidas no identificadas tienen al mes?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/123-0
+00:22:06.104 --> 00:22:16.267
+<v Camilo Zapata>Nuevas, entre ciento cincuenta y doscientas. Y acumuladas debe haber como seiscientas, algunas de hace más de un año.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/124-0
+00:22:17.616 --> 00:22:23.753
+<v Paula Gaviria>Eso es lo que más le preocupa a la revisoría fiscal. Las partidas viejas.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/125-0
+00:22:28.615 --> 00:22:33.359
+<v Andrés Cárdenas>¿Qué se hace con una partida que no se identifica nunca?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/126-0
+00:22:38.749 --> 00:22:50.102
+<v Paula Gaviria>Después de cierto tiempo se reclasifica a un pasivo, a una cuenta de recaudos por identificar. Eso lo hace contabilidad, no nosotros.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/127-0
+00:22:50.982 --> 00:22:53.816
+<v Andrés Cárdenas>¿Después de cuánto tiempo?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/128-0
+00:22:58.326 --> 00:23:07.854
+<v Paula Gaviria>Eh, eso está en una política, creo que son noventa días. O ciento ochenta. No me acuerdo, lo tengo que buscar.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/129-0
+00:23:11.017 --> 00:23:16.996
+<v Sara Montoya>Pendiente: plazo de reclasificación de partidas no identificadas.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/130-0
+00:23:45.345 --> 00:23:50.711
+<v Camilo Zapata>Perdón, ¿se me escucha? Se me congeló un momento la pantalla.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/131-0
+00:23:52.770 --> 00:23:56.729
+<v Sara Montoya>Sí, Camilo, te escuchamos. Ya volviste.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/132-0
+00:23:59.794 --> 00:24:07.055
+<v Andrés Cárdenas>Sigamos con los cargos del banco. Comisiones, el cuatro por mil, ¿cómo los manejas?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/133-0
+00:24:11.696 --> 00:24:23.459
+<v Camilo Zapata>Esos se contabilizan solos con la FF_5, tienen regla. Comisiones, GMF, rendimientos. Menos en Davivienda que, como les dije, es manual.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/134-0
+00:24:28.253 --> 00:24:38.639
+<v Camilo Zapata>A veces el banco cobra una comisión que no está pactada y ahí yo le reclamo al banco por correo. Le pido la reversión.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/135-0
+00:24:40.517 --> 00:24:43.275
+<v Andrés Cárdenas>¿Cuántos reclamos así al mes?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/136-0
+00:24:45.287 --> 00:24:55.238
+<v Camilo Zapata>Unos tres o cuatro. No es mucho, pero toma tiempo porque el banco se demora en responder, a veces dos o tres semanas.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/137-0
+00:24:59.275 --> 00:25:01.617
+<v Andrés Cárdenas>¿Y mientras tanto?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/138-0
+00:25:05.205 --> 00:25:13.900
+<v Camilo Zapata>Queda como partida conciliatoria. Le pongo en el Excel la fecha del reclamo y el número del caso.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/139-0
+00:25:15.124 --> 00:25:17.978
+<v Andrés Cárdenas>¿Manejan cheques todavía?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/140-0
+00:25:23.552 --> 00:25:30.997
+<v Paula Gaviria>Muy poco. Hay unos cheques para casos especiales, pero son contados, como cinco al mes.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/141-0
+00:25:33.768 --> 00:25:41.365
+<v Camilo Zapata>Y esos sí dan lata, porque a veces no los cobran y quedan como partida conciliatoria meses.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/142-0
+00:25:42.542 --> 00:25:46.556
+<v Andrés Cárdenas>¿Hay un plazo para anular un cheque no cobrado?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/143-0
+00:25:52.085 --> 00:25:59.722
+<v Paula Gaviria>Eso lo maneja la política de tesorería, pero no recuerdo el plazo exacto. Lo reviso.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/144-0
+00:26:01.103 --> 00:26:05.262
+<v Andrés Cárdenas>Ok. ¿Y los traslados entre cuentas propias?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/145-0
+00:26:07.141 --> 00:26:20.298
+<v Camilo Zapata>Los traslados los hace Paula en el portal y yo los registro. A veces el traslado sale un día y entra al otro, entonces queda una partida en tránsito de un día.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/146-0
+00:26:24.344 --> 00:26:29.641
+<v Paula Gaviria>Sobre todo los viernes. Sale el viernes y entra el lunes.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/147-0
+00:26:32.929 --> 00:26:35.281
+<v Andrés Cárdenas>¿Y las inversiones?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/148-0
+00:26:38.651 --> 00:26:48.620
+<v Paula Gaviria>Las inversiones, los CDT y las fiducias, eso tiene otra conciliación aparte, no entra aquí. Eso lo vemos en otro proceso.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/149-0
+00:26:53.027 --> 00:26:58.787
+<v Sara Montoya>Bien, eso queda fuera del alcance de este proceso. Lo anoto.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/150-0
+00:27:02.040 --> 00:27:06.556
+<v Andrés Cárdenas>Ya con todo eso, Camilo, ¿cómo armas la conciliación?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/151-0
+00:27:08.559 --> 00:27:20.131
+<v Camilo Zapata>Tengo una plantilla en Excel, una hoja por cuenta. Pongo el saldo según el extracto, el saldo en libros, y las partidas conciliatorias.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/152-0
+00:27:23.116 --> 00:27:27.072
+<v Andrés Cárdenas>¿El saldo en libros de dónde lo sacas?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/153-0
+00:27:29.782 --> 00:27:41.505
+<v Camilo Zapata>De SAP, con la efe ele be tres ene, que es partidas individuales de la cuenta de mayor. O la FAGLB03 para el saldo. Y lo exporto a Excel.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/154-0
+00:27:46.042 --> 00:27:48.838
+<v Andrés Cárdenas>¿La FBL3N?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/155-0
+00:27:50.298 --> 00:27:53.036
+<v Camilo Zapata>Esa, sí, perdón, la FBL3N.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/156-0
+00:27:53.940 --> 00:27:56.973
+<v Andrés Cárdenas>¿Y las partidas conciliatorias?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/157-0
+00:28:01.987 --> 00:28:13.943
+<v Camilo Zapata>Esas son las que están en el banco y no en libros, o en libros y no en el banco. Las saco de la FBL3N, lo abierto, y del Excel de pendientes.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/158-0
+00:28:17.165 --> 00:28:21.030
+<v Andrés Cárdenas>¿El procedimiento dice que se haga en Excel?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/159-0
+00:28:23.744 --> 00:28:40.090
+<v Paula Gaviria>No. El procedimiento dice que la conciliación se hace en SAP. En teoría hay un reporte de SAP para eso. Pero nunca lo usamos, porque no le sirve a la revisoría, no tiene el formato que ellos piden.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/160-0
+00:28:45.369 --> 00:28:51.257
+<v Sara Montoya>Ok, entonces formalmente es en SAP y en la realidad es en Excel.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/161-0
+00:28:54.298 --> 00:29:00.342
+<v Paula Gaviria>Exacto. El procedimiento está desactualizado, eso hay que decirlo.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/162-0
+00:29:02.699 --> 00:29:06.468
+<v Sara Montoya>¿Sabes qué versión es o de qué año?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/163-0
+00:29:10.406 --> 00:29:20.162
+<v Paula Gaviria>Uy, no, no me acuerdo ni del código del documento. Está en el sistema de gestión documental, pero no sé cuál es.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/164-0
+00:29:25.033 --> 00:29:32.082
+<v Sara Montoya>Tranquila, lo buscamos nosotros. Pendiente código y versión del procedimiento.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/165-0
+00:29:35.840 --> 00:29:41.500
+<v Andrés Cárdenas>¿Cuánto tiempo te toma armar la conciliación de todas las cuentas?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/166-0
+00:29:45.479 --> 00:29:54.001
+<v Camilo Zapata>Pues, unos tres días. Del día dos al día cuatro hábil más o menos, trabajando en eso casi exclusivo.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/167-0
+00:29:57.824 --> 00:30:03.926
+<v Paula Gaviria>Yo diría que cuatro días, Camilo, porque siempre aparecen cosas.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/168-0
+00:30:06.928 --> 00:30:11.537
+<v Camilo Zapata>Sí, a veces cuatro. Depende de las partidas que salgan.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/169-0
+00:30:16.558 --> 00:30:19.488
+<v Andrés Cárdenas>Cuando terminas, ¿qué pasa?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/170-0
+00:30:24.185 --> 00:30:32.825
+<v Camilo Zapata>Se la paso a Paula por correo, con el archivo y los soportes en una carpeta compartida de OneDrive.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/171-0
+00:30:38.136 --> 00:30:49.469
+<v Paula Gaviria>Yo reviso. Miro principalmente las partidas de más de treinta días y las diferencias grandes. Si algo no me cuadra se la devuelvo a Camilo.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/172-0
+00:30:53.156 --> 00:30:56.339
+<v Andrés Cárdenas>¿Qué es una diferencia grande?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/173-0
+00:31:01.368 --> 00:31:09.492
+<v Paula Gaviria>Eh, no tenemos un umbral definido, la verdad. Es criterio. Yo miro lo que me parezca raro.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/174-0
+00:31:14.187 --> 00:31:19.747
+<v Sara Montoya>Lo anoto: no hay umbral de materialidad definido para la revisión.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/175-0
+00:31:21.471 --> 00:31:25.485
+<v Andrés Cárdenas>¿Cuántas veces se devuelve, más o menos?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/176-0
+00:31:29.074 --> 00:31:36.269
+<v Paula Gaviria>Casi todos los meses hay alguna devolución, pero son cositas. Una o dos cuentas.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/177-0
+00:31:40.909 --> 00:31:43.062
+<v Andrés Cárdenas>¿Y luego la firmas?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/178-0
+00:31:46.777 --> 00:32:02.288
+<v Paula Gaviria>La firmo, y después la firma también el jefe financiero, bueno, el que esté a cargo. Ahora con la reestructuración no sé cómo quedó el cargo, creo que es director o gerente, no estoy segura.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/179-0
+00:32:04.273 --> 00:32:08.900
+<v Sara Montoya>Ok. Pendiente el cargo exacto del segundo firmante.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/180-0
+00:32:11.914 --> 00:32:15.047
+<v Andrés Cárdenas>¿Esa firma es física o digital?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/181-0
+00:32:20.471 --> 00:32:27.155
+<v Paula Gaviria>Digital. Firmamos el PDF. Antes era impresa, pero desde la pandemia es digital.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/182-0
+00:32:27.932 --> 00:32:30.590
+<v Andrés Cárdenas>¿Y después a quién se entrega?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/183-0
+00:32:35.389 --> 00:32:45.177
+<v Paula Gaviria>A contabilidad, a Luz Marina. Se la mandamos por correo, la conciliación firmada en PDF y el Excel, para el cierre.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/184-0
+00:32:49.579 --> 00:32:52.225
+<v Andrés Cárdenas>¿Hay una fecha para eso?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/185-0
+00:32:56.242 --> 00:33:04.910
+<v Paula Gaviria>Sí, la conciliación debe estar el día cinco hábil. Ese es el compromiso que tenemos con contabilidad.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/186-0
+00:33:06.959 --> 00:33:13.346
+<v Camilo Zapata>El quinto día hábil, sí. Así está en el cronograma que manda contabilidad.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/187-0
+00:33:14.241 --> 00:33:16.643
+<v Andrés Cárdenas>¿Y lo cumplen?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/188-0
+00:33:21.041 --> 00:33:27.305
+<v Paula Gaviria>La mayoría de los meses sí. Cuando hay temas, se nos va al seis o al siete.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/189-0
+00:33:31.685 --> 00:33:35.624
+<v Andrés Cárdenas>¿Y contabilidad qué hace con la conciliación?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/190-0
+00:33:38.336 --> 00:33:54.043
+<v Paula Gaviria>Ellos la usan para el cierre, para validar los saldos de bancos y hacer los ajustes que haya que hacer. Y aparte le mandamos el listado de partidas no identificadas a aportes, a Natalia.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/191-0
+00:33:58.603 --> 00:34:01.143
+<v Andrés Cárdenas>¿Eso último cuándo?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/192-0
+00:34:02.555 --> 00:34:12.166
+<v Camilo Zapata>El mismo día que entrego la conciliación. Les mando el Excel de pendientes filtrado con lo que parece aporte.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/193-0
+00:34:14.768 --> 00:34:28.538
+<v Sara Montoya>Listo. Entonces el hito de cierre sería la conciliación firmada y enviada a contabilidad, y salen dos insumos: la conciliación para el cierre y el listado para aportes.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/194-0
+00:34:30.722 --> 00:34:33.093
+<v Paula Gaviria>Sí, así es.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/195-0
+00:34:36.543 --> 00:34:42.192
+<v Andrés Cárdenas>Una pregunta. Las partidas que identifica aportes, ¿cómo te enteras?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/196-0
+00:34:44.721 --> 00:34:57.694
+<v Camilo Zapata>Ellos me escriben por el chat de Teams, o a veces no me escriben y yo me doy cuenta porque ya la aplicaron en SAP y la partida desaparece de la FEBAN.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/197-0
+00:35:00.300 --> 00:35:03.810
+<v Andrés Cárdenas>¿Y si las dos áreas la contabilizan?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/198-0
+00:35:08.770 --> 00:35:18.204
+<v Camilo Zapata>Ha pasado, sí. Que yo la reclasifique y ellos la apliquen, y queda doble. Después toca reversar uno de los dos.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/199-0
+00:35:22.096 --> 00:35:24.783
+<v Paula Gaviria>Pocas veces, pero ha pasado.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/200-0
+00:35:28.142 --> 00:35:30.969
+<v Andrés Cárdenas>¿Cuántas veces, más o menos?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/201-0
+00:35:32.100 --> 00:35:38.472
+<v Camilo Zapata>No sé, unas tres o cuatro en el año, creo. No llevo registro de eso.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/202-0
+00:35:40.701 --> 00:35:47.000
+<v Andrés Cárdenas>Listo. Hablemos de indicadores. ¿Tienen algún indicador del proceso?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/203-0
+00:35:51.600 --> 00:36:03.517
+<v Paula Gaviria>Formal, formal, no. Yo hago seguimiento a la cantidad de partidas pendientes de más de treinta días, pero eso es en mi Excel, no se reporta.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/204-0
+00:36:06.174 --> 00:36:16.176
+<v Paula Gaviria>Hace un tiempo se habló de un indicador de oportunidad de la conciliación, entregar a tiempo, pero no se implementó.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/205-0
+00:36:17.386 --> 00:36:21.219
+<v Andrés Cárdenas>¿Y la revisoría fiscal les pide algo?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/206-0
+00:36:23.867 --> 00:36:34.653
+<v Paula Gaviria>Nos piden las conciliaciones trimestralmente, y al cierre del año todas. Y siempre hacen observación de las partidas antiguas.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/207-0
+00:36:39.519 --> 00:36:43.743
+<v Andrés Cárdenas>¿Hay alguna observación abierta de auditoría?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/208-0
+00:36:47.538 --> 00:36:59.176
+<v Paula Gaviria>Sí, hay una del año pasado de las partidas no identificadas de más de ciento ochenta días. Tenemos un plan de acción, pero vamos lento.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/209-0
+00:37:01.061 --> 00:37:06.547
+<v Andrés Cárdenas>Ok. ¿Y los controles del proceso? Además de tu revisión, Paula.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/210-0
+00:37:08.428 --> 00:37:19.474
+<v Paula Gaviria>Pues la segregación. Camilo prepara y yo reviso, y él no tiene permisos para aprobar pagos en el portal. Eso sí está bien separado.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/211-0
+00:37:24.855 --> 00:37:31.357
+<v Camilo Zapata>Y yo tampoco puedo abrir y cerrar períodos en SAP, eso lo hace contabilidad.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/212-0
+00:37:36.067 --> 00:37:42.356
+<v Andrés Cárdenas>¿Te ha pasado que necesites contabilizar algo y el período ya esté cerrado?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/213-0
+00:37:44.876 --> 00:37:57.780
+<v Camilo Zapata>Sí, claro. Si ya cerraron el mes, tengo que pedirle a contabilidad que me abra el período, y eso es un correo y esperar. A veces me lo abren solo una hora.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/214-0
+00:37:58.914 --> 00:38:06.409
+<v Paula Gaviria>Y eso pasa porque nosotros entregamos el cinco, y a veces ellos ya quieren cerrar antes.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/215-0
+00:38:07.974 --> 00:38:13.979
+<v Sara Montoya>Interesante, eso lo vamos a cruzar con la sesión de cierre contable.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/216-0
+00:38:16.149 --> 00:38:20.303
+<v Andrés Cárdenas>¿Qué pasa con las cuentas de Banco de Bogotá?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/217-0
+00:38:25.510 --> 00:38:36.826
+<v Camilo Zapata>Esas son pocas, dos cuentas con muy pocos movimientos. Esas sí cargan por FF_5 sin problema. Son cuentas de convenios específicos.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/218-0
+00:38:40.672 --> 00:38:45.625
+<v Paula Gaviria>Ah, entonces esas son las de convenios. Ahora entiendo.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/219-0
+00:38:47.960 --> 00:38:54.584
+<v Camilo Zapata>No, Paula, esas son aparte. Las de convenios son cuatro en Bancolombia.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/220-0
+00:38:56.493 --> 00:39:01.572
+<v Paula Gaviria>Ay, bueno, ves que hay que revisar el inventario de cuentas.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/221-0
+00:39:05.606 --> 00:39:12.518
+<v Sara Montoya>Lo dejo así, pendiente el inventario de cuentas. Andrés, ¿algo más de actividades?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/222-0
+00:39:14.997 --> 00:39:23.016
+<v Andrés Cárdenas>Sí. Camilo, ¿cuánto tiempo al mes le dedicas a la conciliación en total, incluyendo lo diario?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/223-0
+00:39:24.902 --> 00:39:38.298
+<v Camilo Zapata>Lo diario, una hora al día más o menos. Y en el cierre, los tres o cuatro días que les dije. Yo diría que un sesenta por ciento de mi tiempo es conciliación.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/224-0
+00:39:42.112 --> 00:39:44.759
+<v Andrés Cárdenas>¿Y el otro cuarenta?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/225-0
+00:39:49.492 --> 00:39:56.092
+<v Camilo Zapata>Apoyo a Paula en flujo de caja, traslados, reportes. Y atender a los bancos.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/226-0
+00:40:01.091 --> 00:40:05.245
+<v Andrés Cárdenas>Bien. ¿Hay alguien de respaldo si tú no estás?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/227-0
+00:40:08.430 --> 00:40:17.931
+<v Camilo Zapata>No formalmente. Cuando me fui de vacaciones en diciembre, la conciliación se atrasó y la hice cuando volví.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/228-0
+00:40:23.269 --> 00:40:30.741
+<v Paula Gaviria>Sí, y ese mes la entregamos el día nueve hábil. Contabilidad no estaba muy contenta.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/229-0
+00:40:35.124 --> 00:40:40.158
+<v Sara Montoya>Lo anoto como dolor: dependencia de una sola persona.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/230-0
+00:40:45.432 --> 00:40:52.807
+<v Andrés Cárdenas>Si tuvieran que nombrar los tres dolores principales del proceso, ¿cuáles serían?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/231-0
+00:40:58.291 --> 00:41:10.054
+<v Paula Gaviria>Uno, las partidas no identificadas, que se acumulan. Dos, que Davivienda no carga automático. Tres, que dependemos del Excel y de Camilo.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/232-0
+00:41:13.818 --> 00:41:20.891
+<v Camilo Zapata>Y yo le sumaría los rechazos de pagos, que cuentas por pagar se demora en reversar.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/233-0
+00:41:23.424 --> 00:41:26.561
+<v Andrés Cárdenas>¿Y qué mejorarían si pudieran?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/234-0
+00:41:28.165 --> 00:41:39.562
+<v Camilo Zapata>Que el extracto de Davivienda cargue solo. Y tener una sola revisión de las partidas no identificadas con aportes, no hacerlo dos veces.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/235-0
+00:41:42.030 --> 00:41:50.437
+<v Paula Gaviria>Y tener la conciliación en una herramienta, no en Excel. Que la revisoría pueda ver todo ahí.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/236-0
+00:41:55.508 --> 00:42:01.849
+<v Sara Montoya>Perfecto. Déjenme hacer un resumen rápido para validar que entendí bien.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/237-0
+00:42:07.244 --> 00:42:17.353
+<v Sara Montoya>El proceso arranca el primer día hábil con la descarga de extractos, aunque Camilo va cargando diario la cuenta principal.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/238-0
+00:42:18.250 --> 00:42:31.111
+<v Sara Montoya>Se descargan en los portales de Bancolombia y Davivienda, se cargan en SAP por FF_5, y las de Davivienda se registran manual por FF67 con apoyo de una macro.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/239-0
+00:42:33.605 --> 00:42:45.046
+<v Sara Montoya>Lo que no compensa automático se trabaja en FEBAN, y los pagos de proveedores se compensan contra la cuenta puente, con F.13 cuando toca.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/240-0
+00:42:50.067 --> 00:43:00.281
+<v Sara Montoya>Los rechazos se reportan a cuentas por pagar por correo. Las partidas no identificadas van a un Excel de pendientes.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/241-0
+00:43:03.147 --> 00:43:18.597
+<v Sara Montoya>Se arma la conciliación en Excel con saldos de FBL3N y FAGLB03, la revisa Paula, la firma un segundo aprobador cuyo cargo está pendiente, y se envía a contabilidad el día cinco hábil.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/242-0
+00:43:20.500 --> 00:43:26.894
+<v Sara Montoya>Y se envía el listado de partidas no identificadas a aportes. ¿Voy bien?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/243-0
+00:43:29.536 --> 00:43:38.563
+<v Paula Gaviria>Sí, perfecto. Solo una cosa: lo de las veintitrés o veintisiete cuentas lo confirmo con el inventario.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/244-0
+00:43:42.401 --> 00:43:47.468
+<v Camilo Zapata>Y que quede que lo de Davivienda es manual, no automático.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/245-0
+00:43:49.756 --> 00:44:04.156
+<v Sara Montoya>Así queda. Pendientes que me llevo: número exacto de cuentas, plazo de reclasificación, cargo del segundo firmante, código y versión del procedimiento, y el umbral de revisión.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/246-0
+00:44:05.376 --> 00:44:13.677
+<v Andrés Cárdenas>Y yo agregaría el acuerdo de tiempos con cuentas por pagar para los rechazos, que no existe.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/247-0
+00:44:15.424 --> 00:44:25.178
+<v Sara Montoya>Cierto. Paula, ¿nos podrías compartir la plantilla de conciliación y el Excel de pendientes, uno de un mes cualquiera?</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/248-0
+00:44:27.967 --> 00:44:33.888
+<v Paula Gaviria>Sí, se los mando por correo esta tarde. Le quito los datos sensibles.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/249-0
+00:44:36.302 --> 00:44:47.822
+<v Sara Montoya>Perfecto, muchas gracias. La próxima sesión es con aportes, con Natalia y Hernán, y ahí revisamos el tema de las partidas no identificadas.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/250-0
+00:44:49.742 --> 00:44:53.659
+<v Camilo Zapata>Listo. Cualquier cosa me escriben por Teams.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/251-0
+00:44:56.043 --> 00:45:00.812
+<v Paula Gaviria>Gracias, Sara, gracias, Andrés. Que estén muy bien.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/252-0
+00:45:05.276 --> 00:45:08.494
+<v Andrés Cárdenas>Gracias a ustedes, muy claro todo.</v>
+
+7c1e4b2a-93d5-4f60-b8a1-2e6f0c9d4a17/253-0
+00:45:09.951 --> 00:45:12.000
+<v Sara Montoya>Chao, chao, feliz día.</v>

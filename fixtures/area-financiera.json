@@ -1,0 +1,49 @@
+{
+  "area": {
+    "codigo": "FIN",
+    "nombre": "Gestión Financiera",
+    "descripcion": "Contabilidad, tesorería y recaudo de aportes. Área piloto de Mapeo (datos ficticios)."
+  },
+  "usuarios": [
+    { "correo": "sara.montoya@demo.mapeo", "nombre": "Sara Montoya", "cargo": "Analista de Excelencia Operativa", "rol": "analista" },
+    { "correo": "andres.cardenas@demo.mapeo", "nombre": "Andrés Cárdenas", "cargo": "Consultor de procesos", "rol": "analista" },
+    { "correo": "luzmarina.ospina@demo.mapeo", "nombre": "Luz Marina Ospina", "cargo": "Jefe de Contabilidad", "rol": "validador" },
+    { "correo": "paula.gaviria@demo.mapeo", "nombre": "Paula Gaviria", "cargo": "Tesorera", "rol": "validador" },
+    { "correo": "natalia.bedoya@demo.mapeo", "nombre": "Natalia Bedoya", "cargo": "Coordinadora de aportes y recaudo", "rol": "validador" }
+  ],
+  "procesos": [
+    {
+      "codigo": "P-FIN-01",
+      "nombre": "Causación y pago a proveedores",
+      "macroproceso": "Gestión Financiera y Administrativa",
+      "sesiones": [
+        { "numero": 1, "titulo": "Levantamiento cuentas por pagar", "fecha": "2026-10-13T09:00:00-05:00", "archivo": "P-FIN-01-sesion-1.vtt" },
+        { "numero": 2, "titulo": "Seguimiento cuentas por pagar", "fecha": "2026-10-20T09:00:00-05:00", "archivo": "P-FIN-01-sesion-2.vtt" }
+      ]
+    },
+    {
+      "codigo": "P-FIN-02",
+      "nombre": "Conciliación bancaria",
+      "macroproceso": "Gestión Financiera y Administrativa",
+      "sesiones": [
+        { "numero": 1, "titulo": "Levantamiento conciliación bancaria", "fecha": "2026-10-14T14:00:00-05:00", "archivo": "P-FIN-02-sesion-1.vtt" }
+      ]
+    },
+    {
+      "codigo": "P-FIN-03",
+      "nombre": "Recaudo y conciliación de aportes parafiscales (4%)",
+      "macroproceso": "Gestión Financiera y Administrativa",
+      "sesiones": [
+        { "numero": 1, "titulo": "Levantamiento recaudo de aportes", "fecha": "2026-10-15T10:00:00-05:00", "archivo": "P-FIN-03-sesion-1.vtt" }
+      ]
+    },
+    {
+      "codigo": "P-FIN-04",
+      "nombre": "Cierre contable mensual",
+      "macroproceso": "Gestión Financiera y Administrativa",
+      "sesiones": [
+        { "numero": 1, "titulo": "Levantamiento cierre contable", "fecha": "2026-10-16T08:00:00-05:00", "archivo": "P-FIN-04-sesion-1.vtt" }
+      ]
+    }
+  ]
+}

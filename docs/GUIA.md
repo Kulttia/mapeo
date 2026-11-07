@@ -112,6 +112,8 @@ Si el proceso tiene varias reuniones, la segunda **no empieza de cero**: Claude 
 
 ## 3. Cómo se usa
 
+**Para entrar**, abre la plataforma e ingresa con el usuario `prueba` y la contraseña `prueba`. Es un ingreso simulado con los colores y el logo de Comfama; la sesión dura 8 horas y el botón **Salir**, arriba a la derecha, la cierra.
+
 ![Página de inicio de Mapeo](img/inicio.jpg)
 
 ### Paso 1 · Grabar y transcribir la reunión en Teams
@@ -232,7 +234,7 @@ Cada reunión tardó entre 1,5 y 3 minutos y costó cerca de un centavo de dóla
 
 ## 5. Seguridad del piloto
 
-- La página es pública, pero **todo lo que crea datos o gasta créditos pide la clave del piloto**. Cualquier persona con el enlace puede ver y corregir los datos de ejemplo, que son inventados.
+- Para entrar se pide usuario y contraseña (`prueba` / `prueba` en el piloto). Además, **todo lo que crea datos o gasta créditos pide la clave del piloto**. Los datos de ejemplo son inventados.
 - Las claves (de Claude, de la base de datos y del piloto) están guardadas en Vercel como secretas y no aparecen en el código ni en el repositorio.
 - La dirección `/api/estado` dice si todo está configurado sin mostrar ninguna clave.
 - Para usar reuniones reales hace falta, antes, el inicio de sesión con las cuentas de Microsoft de la organización y la aprobación de Seguridad de la Información para el tratamiento de datos personales.
